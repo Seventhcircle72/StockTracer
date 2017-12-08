@@ -15,19 +15,19 @@ import java.text.DecimalFormat;
 public class Stock {
     
     // Variable declaration
-    private Exchange market;                                                        // Market Exchange platform
     private String symbol;                                                          // Exchange symbol for stock
     private String name;                                                            // Name of stock
+    private String exDivDate;                                                       // Last day to purchase stock to qualify for dividends
+    private double change = 0;
+    private double changePercent = 0;
     private double price = 0;                                                       // Price per share
     private double dividend = 0;                                                    // Dividend amount
+    private double annualYield = 0;                                                 // Annual dividend yield per share
     private PayoutInformation payout = PayoutInformation.None;                      // Quarterly or Monthly dividends
-    private URL link;                                                               // URL link to TMX quote page
+    private String link;                                                               // URL link to TMX quote page
     // End of variable declaration
     
     // Get and Set methods
-    public Exchange getMarket() { return market; }
-    public void setMarket(Exchange toSet) { market = toSet; }
-    
     public String getSymbol() { return symbol; }
     public final void setSymbol(String toSet) { symbol = toSet; }
     
@@ -40,22 +40,39 @@ public class Stock {
     public double getDividend() { return dividend; }
     public final void setDividend(double toSet) { dividend = toSet; }
     
-    public URL getURL() { return link; }
-    public final void setURL(URL toSet) { link = toSet; }
+    public String getURL() { return link; }
+    public final void setURL(String toSet) { link = toSet; }
     
     public PayoutInformation getPayoutInfo() { return payout; }
     public final void setPayoutInfo( PayoutInformation toSet ) { payout = toSet; }
+    
+    public String getExDivDate() { return exDivDate; }
+    public final void setExDivDate(String toSet) { exDivDate = toSet; }
+    
+    public double getChange() { return change; }
+    public final void setChange(double toSet) { change = toSet; }
+    
+    public double getChangePercent() { return changePercent; }
+    public final void setChangePercent(double toSet) { changePercent = toSet; }
+    
+    public double getAnnualYield() { return annualYield; }
+    public void setAnnualYield(double toSet) { annualYield = toSet; }
     // End of Get and Set methods
 
     // Constructor
     public Stock(String symbol, String stockName, double stockPrice,
-            double dividend, URL url, PayoutInformation interest) {
+            double dividend, String url, PayoutInformation interest, String exDiv, 
+            double change, double changePercent) {
         setSymbol(symbol);
         setName(stockName);
         setPrice(stockPrice);
         setDividend(dividend);
         setURL(url);
         setPayoutInfo(interest);
+        annualYield = calculateDividendYieldInPercent();
+        setExDivDate(exDiv);
+        setChange(change);
+        setChangePercent(changePercent);
     }
     
     public double calculateAnnualDividendIncomeOnInvestment(double investment) {
@@ -96,6 +113,17 @@ public class Stock {
         return result;
     }
     
+    public double calculateDividendYield() {
+        double result = 0;
+        double dividends = getDividend();
+        if (getPayoutInfo() == PayoutInformation.Monthly) {
+            result = dividends * 12;
+        } else if (getPayoutInfo() == PayoutInformation.Quarterly) {
+            result = dividends * 4;
+        }
+        return result;
+    }
+    
     public double calculateReturnOnInvestment(double investment, double gain,
                                                             int duration) {
         double result = 0;
@@ -120,8 +148,16 @@ public class Stock {
     
     @Override
     public String toString() {
-        DecimalFormat decimal = new DecimalFormat("0.00");
+        DecimalFormat decimal = new DecimalFormat("##0.00#");
         String result = "";
+        result += (getName() + getSymbol() + " | $" + getPrice() +  "\n" 
+                + "Change: $" + getChange() + " (" + getChangePercent() + "%)" 
+                + "\n"
+                + "Dividend: $" + decimal.format(getDividend()) + "\n"
+                + "Dividend Payout: " + getPayoutInfo() + "\n"
+                + "Yield: " + decimal.format(getAnnualYield()) + "% ($" 
+                + decimal.format(calculateDividendYield()) + ")" + "\n"
+                + "-----------------------------------------------------\n");
         return result;
     }
 }

@@ -18,6 +18,7 @@ import java.net.URL;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.Iterator;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
@@ -42,42 +43,58 @@ public class WebReader {
     public WebReader() {
         symbols = new String[NUM_SYMBOLS];
         loadKeys();
-        connectToURL(symbols);
+        createStockList(symbols);
     }
     
-    private void connectToURL(String[] symbols) {
+    private Stock[] createStockList(String[] symbolList) {
+        Stock[] result = new Stock[NUM_SYMBOLS];
+        String urlKey;
+        String path;
+        String html;
+        Stock curr;
+        int i = 0;
+        for (String symbol : symbolList) {
+            urlKey = symbol;
+            path = URL_PATH + urlKey;
+            html = connectToURL(path);
+            curr = generateStock(html, path);
+            result[i] = curr;
+            System.out.print(curr);
+            i++;
+        }
+        System.out.println(i);
+        return result;
+    }
+    
+    private String connectToURL(String url) {
+        String result = "";
         try {
-            URL path = new URL(URL_PATH + "ULV.C");
+            URL path = new URL(url);
             bufferedReader = new BufferedReader(new InputStreamReader(path.openStream()));
-            PrintWriter outFile = new PrintWriter(new FileWriter("./src/resources/example_file.txt"));
             String inputLine;
             String html = "";
             while ((inputLine = bufferedReader.readLine()) != null) {
                 html += inputLine + "\n";
-                outFile.println(inputLine);
             }
-            //System.out.print(html);
-            String symbol = findStockSymbol(html);
-            String title = findStockName(html);
-            double price = findStockPrice(html);
-            System.out.println(symbol);
-            System.out.println(title);
-            System.out.println(price);
-            System.out.println(findChange(html));
-            System.out.println(findChangePercentage(html) + "%");
-            System.out.println(findDividends(html));
-            System.out.println(findDivFrequency(html));
-            System.out.println(findExDivDate(html));
-            outFile.close();
             bufferedReader.close();
         } catch (MalformedURLException ex) {
             System.out.print("Malformed URL");
         } catch (IOException ex) {
             System.out.print("IO Exception");
         }
+        return result;
     }
     
     // String Parser Methods
+    private Stock generateStock(String html, String stockURL) {
+        Stock result;
+        result = new Stock(findStockSymbol(html), findStockName(html), 
+            findStockPrice(html), findDividends(html), stockURL, 
+            findDivFrequency(html), findExDivDate(html), findChange(html), 
+            findChangePercent(html));
+        return result;
+    }
+    
     private String findStockSymbol(String html) {
         String result = "";
         Pattern regex = Pattern.compile("\\<title\\>(.*)(\\[.*\\]).*"
@@ -105,7 +122,7 @@ public class WebReader {
         String price = "";
         Pattern regex = Pattern.compile("\\<div class\\=\\\"quote\\-"
                 + "price priceLarge\\\"\\>\\s*\\$\\s*<span>"
-                + "(\\d\\d\\.\\d\\d)<\\/span>");
+                + "(\\d?\\d?\\d\\.\\d\\d)<\\/span>");
         Matcher matcher = regex.matcher(html);
         if (matcher.find() == true) {
             price = matcher.group(1);
@@ -128,7 +145,7 @@ public class WebReader {
         return result;
     }
     
-    private double findChangePercentage(String html) {
+    private double findChangePercent(String html) {
         double result = 0;
         String change = "";
         Pattern regex = Pattern.compile("\\<span class\\=\\\"quote\\-small\\"
@@ -237,14 +254,6 @@ public class WebReader {
         DateFormat format = new SimpleDateFormat("yyyy/MM/dd");
         Date today = new Date();
         result = format.format(today);
-        return result;
-    }
-    
-    private Stock makeStockFromHTML(String html) {
-        Stock result = null;
-        
-        
-        
         return result;
     }
     

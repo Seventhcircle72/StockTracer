@@ -180,25 +180,25 @@
 					<div class="quote-name">
 					<h2>PowerShares S&P 500 Low Volatility Index ETF</h2>
 					Exchange: TSX Exchange |
-														Dec 6, 2017, 12:08 AM EST												</div>
+														Dec 7, 2017, 5:22 PM EST												</div>
 					<div class="quote-logo"><img class='symbollogo' alt='logo' src='https://www.tmxmoney.com/en/images/logos/ulvlogo.gif' style="display:none;"></div>
 				</div>
 				<hr />
 				<div class="quote-row" id="quote_data" style="">
 					<div class="quote-ticker tickerLarge">ULV.C</div>
 					<div class="quote-price priceLarge">
-						$						<span>22.31</span>
-																		<img alt="real time data" src="/assets/img/icons/real-time-en.png?v=1.0.44"  border="0" align="absmiddle" />						<img alt="Change Down" src='/assets/img/down.gif' width="23" height="23" border="0" align="absmiddle" />
+						$						<span>22.56</span>
+																		<img alt="real time data" src="/assets/img/icons/real-time-en.png?v=1.0.44"  border="0" align="absmiddle" />						<img alt="Change Up" src='/assets/img/up.gif' width="23" height="23" border="0" align="absmiddle" />
 					</div>
 
-					<div class="quote-change changeLarge change-down">
+					<div class="quote-change changeLarge change-up">
 												<span class="quote-small-text">Change:</span><br />
-														-0.05 
-							(-0.22%)
+														0.31 
+							(1.39%)
 																		</div>
 					<div class="quote-volume volumeLarge">
 						<span class="quote-small-text">Volume:</span><br />
-												300											</div>
+												400											</div>
 				</div>
 				<span class="rt-msg">Real-time price</span>
 				<hr />
@@ -206,11 +206,11 @@
 <div class="day-range">
 		<div class="day-low">
 			<strong>Day Low</strong>
-			22.31			</div>
+			22.56			</div>
 		<div class="day-high">
 			<strong>Day High</strong>
-			22.31			</div>
-		<div class="lowHighBar" title="Prev. Close: 22.36 (arrow)<br>Last Price: 22.31 (bar)">
+			22.56			</div>
+		<div class="lowHighBar" title="Prev. Close: 22.25 (arrow)<br>Last Price: 22.56 (bar)">
 						<div class="triangle_indicator" style="position : relative; left:48%"></div>
 			<div class="bar">
 								<div class="filler" style="width:50%"></div>
@@ -227,10 +227,10 @@
 			22.58		</div>
 				<div class="lowHighBar" title="52 Week Low: 19.85<br>52 Week High: 22.58 ">
 			<!-- (bar)   (arrow) -->
-						<div class="triangle_indicator" style="position: relative; left:90%"></div>
+						<div class="triangle_indicator" style="position: relative; left:86%"></div>
 
 			<div class="bar">
-								<div class="filler" style="width:90%"></div>
+								<div class="filler" style="width:99%"></div>
 			</div>
 		</div>
 	</div>
@@ -629,11 +629,11 @@ $QM(document).ready(function () {
 			<table cellpadding="0" cellspacing="0" width="220" class="detailed-quote-table">
 			<tr class="">
 				<td class="">Open:</td>
-				<td class="">22.31</td>
+				<td class="">22.56</td>
 			</tr>
 			<tr class="alt">
 				<td class="">High:</td>
-				<td class="">22.31</td>
+				<td class="">22.56</td>
 			</tr>
 <!-- 			<tr class="">
 				<td class="">Bid:</td>
@@ -649,7 +649,7 @@ $QM(document).ready(function () {
 			</tr>
 			<tr class="">
 								<td class="label qm-new-data">Beta:</td>
-				<td class="">0.977</td>
+				<td class="">0.994</td>
 			</tr> 
 		</table>
 		</td>
@@ -657,11 +657,11 @@ $QM(document).ready(function () {
 		<table cellpadding="0" cellspacing="0" width="220" class="detailed-quote-table">
 			<tr class="">
 				<td class="">Prev. Close:</td>
-				<td class="">22.36</td>
+				<td class="">22.25</td>
 			</tr>
 			<tr class="alt">
 				<td class="">Low:</td>
-				<td class="">22.31</td>
+				<td class="">22.56</td>
 			</tr>
 <!-- 			<tr class="">
 				<td class="">Ask:</td>
@@ -673,11 +673,11 @@ $QM(document).ready(function () {
 			</tr> -->
 			<tr class="">
 				<td class="">Market Cap:</td>
-				<td class="">4,462,000				</td>
+				<td class="">4,512,000				</td>
 			</tr>
 			<tr class="">
 				<td class="label qm-new-data">VWAP:</td>
-				<td class="">22.31</td>
+				<td class="">22.56</td>
 			</tr>
 			</table>
 		</td>
@@ -705,7 +705,7 @@ $QM(document).ready(function () {
 		<table cellpadding="0" cellspacing="0" width="220" class="detailed-quote-table">
 			<tr class="">
 				<td class="">Yield:</td>
-				<td class="">1.567</td>
+				<td class="">1.571</td>
 			</tr>
 			<tr class="alt">
 				<td class="">Ex-Div Date:</td>
@@ -816,12 +816,52 @@ $QM(document).ready(function () {
 				</tr>
 																			
 				<tr class="qmTradesData qm-strikethrough-off">
+					<td>12/07/2017 3:08 PM EST</td>
+					<td class='qm-buyer-id'>
+											</td>
+					<td align="right">22.56</td>
+					<td align="right">400</td>
+					<td align="right" class="change change-up">0.31</td>
+ 					<td align="right" class=" ">TSX</td>
+															<td align="right" class="qm-buyer-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
+					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
+										<!--<td align="right"></td>-->
+				</tr>
+															
+				<tr class="qmTradesData qm-strikethrough-off">
+					<td>12/06/2017 9:30 AM EST</td>
+					<td class='qm-buyer-id'>
+													<a href="#" title="Non Boardlot">E</a>
+											</td>
+					<td align="right">22.25</td>
+					<td align="right">40</td>
+					<td align="right" class="change change-off">0.00</td>
+ 					<td align="right" class=" ">TSX</td>
+															<td align="right" class="qm-buyer-id"><a href="#" title="Desjardins Securities Inc.<br>1170 Peel Street, Suite 300, Montreal, Quebec H3B 0A9<br>(514) 987-1749">019</a></td>
+					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
+										<!--<td align="right"></td>-->
+				</tr>
+															
+				<tr class="qmTradesData qm-strikethrough-off">
+					<td>12/06/2017 9:30 AM EST</td>
+					<td class='qm-buyer-id'>
+											</td>
+					<td align="right">22.25</td>
+					<td align="right">200</td>
+					<td align="right" class="change change-off">0.00</td>
+ 					<td align="right" class=" ">TSX</td>
+															<td align="right" class="qm-buyer-id"><a href="#" title="Desjardins Securities Inc.<br>1170 Peel Street, Suite 300, Montreal, Quebec H3B 0A9<br>(514) 987-1749">019</a></td>
+					<td align="right" class="qm-seller-id"><a href="#" title="TD Securities Inc.<br>P.O. Box 1, TD Tower, 12th Floor, 66 Wellington Street West, Toronto, ON, M5K 1A2<br>(416) 307-8903">007</a></td>
+										<!--<td align="right"></td>-->
+				</tr>
+															
+				<tr class="qmTradesData qm-strikethrough-off">
 					<td>12/05/2017 10:51 AM EST</td>
 					<td class='qm-buyer-id'>
 											</td>
 					<td align="right">22.31</td>
 					<td align="right">300</td>
-					<td align="right" class="change change-down">-0.05</td>
+					<td align="right" class="change change-up">0.06</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -834,7 +874,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.36</td>
 					<td align="right">100</td>
-					<td align="right" class="change change-off">0.00</td>
+					<td align="right" class="change change-up">0.11</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="TD Securities Inc.<br>P.O. Box 1, TD Tower, 12th Floor, 66 Wellington Street West, Toronto, ON, M5K 1A2<br>(416) 307-8903">007</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -847,7 +887,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.58</td>
 					<td align="right">700</td>
-					<td align="right" class="change change-up">0.22</td>
+					<td align="right" class="change change-up">0.33</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -861,7 +901,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.49</td>
 					<td align="right">30</td>
-					<td align="right" class="change change-up">0.13</td>
+					<td align="right" class="change change-up">0.24</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="Desjardins Securities Inc.<br>1170 Peel Street, Suite 300, Montreal, Quebec H3B 0A9<br>(514) 987-1749">019</a></td>
@@ -874,7 +914,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.51</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-up">0.15</td>
+					<td align="right" class="change change-up">0.26</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="CIBC World Markets Inc.<br>PO Box 500, 161 Bay Street, Toronto, ON, M5J 2S8<br>(416) 594-7000">079</a></td>
@@ -887,7 +927,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.42</td>
 					<td align="right">100</td>
-					<td align="right" class="change change-up">0.06</td>
+					<td align="right" class="change change-up">0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="TD Securities Inc.<br>P.O. Box 1, TD Tower, 12th Floor, 66 Wellington Street West, Toronto, ON, M5K 1A2<br>(416) 307-8903">007</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -900,7 +940,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.19</td>
 					<td align="right">300</td>
-					<td align="right" class="change change-down">-0.17</td>
+					<td align="right" class="change change-down">-0.06</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="CIBC World Markets Inc.<br>PO Box 500, 161 Bay Street, Toronto, ON, M5J 2S8<br>(416) 594-7000">079</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="TD Securities Inc.<br>P.O. Box 1, TD Tower, 12th Floor, 66 Wellington Street West, Toronto, ON, M5K 1A2<br>(416) 307-8903">007</a></td>
@@ -913,7 +953,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -926,7 +966,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -939,7 +979,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -952,7 +992,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -965,7 +1005,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -978,7 +1018,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -991,7 +1031,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -1004,7 +1044,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -1017,7 +1057,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -1030,7 +1070,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -1043,7 +1083,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -1056,7 +1096,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -1069,7 +1109,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -1082,7 +1122,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -1095,46 +1135,7 @@ $QM(document).ready(function () {
 											</td>
 					<td align="right">22.08</td>
 					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.28</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">400</td>
-					<td align="right" class="change change-down">-0.28</td>
+					<td align="right" class="change change-down">-0.17</td>
  					<td align="right" class=" ">TSX</td>
 															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
 					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
@@ -1313,7 +1314,7 @@ jQuery.fn.dataTableExt.oSort['mystringz-desc'] = function(y,x) {
 	jQuery.extend( jQuery.fn.dataTableExt.oSort, {
 	    "time-of-day-pre": function ( a ) {
 	    	a = $(a).attr('data-dateraw');
-		  //var x = a.match("\/") ? strtotime(a) : strtotime('12/06/2017 ' + a);
+		  //var x = a.match("\/") ? strtotime(a) : strtotime('12/07/2017 ' + a);
 	  	  return a;
 	    },
 
@@ -1640,5 +1641,13 @@ jQuery('.qm-consolidated-quote table').ready(function () {
 </div>
 
 <div id="qmtip"></div>
-</body>
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=487684454';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
 </html>				
