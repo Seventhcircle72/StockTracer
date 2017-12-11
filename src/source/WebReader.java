@@ -17,6 +17,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.Iterator;
 import java.util.logging.Level;
@@ -32,37 +33,40 @@ public class WebReader {
     
     private BufferedReader bufferedReader;
     private FileReader fileReader;
-    private String[] symbols;
-    
+    private static WebReader reader;
     private static final String URL_PATH = "https://web.tmxmoney.com/quote.php?qm_symbol=";
     private static final String SYMBOL_PATH = "./src/resources/TSXkeys.txt";
     private static final int NUM_SYMBOLS = 2205;
-    
-    public String getURL() { return URL_PATH; }
+    private String[] symbols;
     
     public WebReader() {
-        symbols = new String[NUM_SYMBOLS];
         loadKeys();
-        createStockList(symbols);
     }
     
-    private Stock[] createStockList(String[] symbolList) {
-        Stock[] result = new Stock[NUM_SYMBOLS];
-        String urlKey;
-        String path;
-        String html;
-        Stock curr;
-        int i = 0;
-        for (String symbol : symbolList) {
-            urlKey = symbol;
-            path = URL_PATH + urlKey;
-            html = connectToURL(path);
-            curr = generateStock(html, path);
-            result[i] = curr;
-            System.out.print(curr);
-            i++;
+    public boolean isOverYieldPercent(Stock stock, double yieldPercent) {
+        boolean result = false;
+        if (stock.getAnnualYield() > yieldPercent) {
+            result = true;
         }
-        System.out.println(i);
+        return result;
+    }
+    
+    public String[] getSymbols() {
+        return symbols;
+    }
+    
+    public Stock findStock(String path) {
+        String html = connectToURL(path);
+        Stock result = generateStock(html, path);
+        return result;
+    }
+    
+    private Stock generateStock(String html, String stockURL) {
+        Stock result;
+        result = new Stock(findStockSymbol(html), findStockName(html), 
+            findStockPrice(html), findDividends(html), stockURL, 
+            findDivFrequency(html), findExDivDate(html), findChange(html), 
+            findChangePercent(html));
         return result;
     }
     
@@ -76,6 +80,7 @@ public class WebReader {
             while ((inputLine = bufferedReader.readLine()) != null) {
                 html += inputLine + "\n";
             }
+            result = html;
             bufferedReader.close();
         } catch (MalformedURLException ex) {
             System.out.print("Malformed URL");
@@ -86,15 +91,6 @@ public class WebReader {
     }
     
     // String Parser Methods
-    private Stock generateStock(String html, String stockURL) {
-        Stock result;
-        result = new Stock(findStockSymbol(html), findStockName(html), 
-            findStockPrice(html), findDividends(html), stockURL, 
-            findDivFrequency(html), findExDivDate(html), findChange(html), 
-            findChangePercent(html));
-        return result;
-    }
-    
     private String findStockSymbol(String html) {
         String result = "";
         Pattern regex = Pattern.compile("\\<title\\>(.*)(\\[.*\\]).*"
@@ -120,9 +116,7 @@ public class WebReader {
     private double findStockPrice(String html) {
         double result = 0;
         String price = "";
-        Pattern regex = Pattern.compile("\\<div class\\=\\\"quote\\-"
-                + "price priceLarge\\\"\\>\\s*\\$\\s*<span>"
-                + "(\\d?\\d?\\d\\.\\d\\d)<\\/span>");
+        Pattern regex = Pattern.compile("\\<div class\\=\\\"quote\\-price priceLarge\\\"\\>\\s*\\$\\s*\\<span\\>(\\d?\\d?\\d\\.\\d\\d\\d?)\\<\\/span\\>");
         Matcher matcher = regex.matcher(html);
         if (matcher.find() == true) {
             price = matcher.group(1);
@@ -134,9 +128,7 @@ public class WebReader {
     private double findChange(String html) {
         double result = 0;
         String change = "";
-        Pattern regex = Pattern.compile("\\<span class\\=\\\"quote\\-small\\-"
-                + "text\\\"\\>Change\\:\\<\\/span\\>\\<br \\/\\>\\s*"
-                + "(\\-?\\d\\.\\d\\d)");
+        Pattern regex = Pattern.compile("\\<span class\\=\\\"quote\\-small\\-text\\\"\\>Change\\:\\<\\/span\\>\\<br \\/\\>\\s*(\\-?\\d?\\d\\.\\d\\d\\d?)");
         Matcher matcher = regex.matcher(html);
         if (matcher.find() == true) {
             change = matcher.group(1);
@@ -148,9 +140,7 @@ public class WebReader {
     private double findChangePercent(String html) {
         double result = 0;
         String change = "";
-        Pattern regex = Pattern.compile("\\<span class\\=\\\"quote\\-small\\"
-                + "-text\\\"\\>Change\\:\\<\\/span\\>\\<br \\/\\>\\s*"
-                + "\\-?\\d\\.\\d\\d\\s*\\((\\-?\\d\\.\\d\\d)\\%\\)");
+        Pattern regex = Pattern.compile("\\<span class\\=\\\"quote\\-small\\-text\\\"\\>Change\\:\\<\\/span\\>\\<br \\/\\>\\s*\\-?\\d?\\d\\.\\d\\d\\s*\\((\\-?\\d?\\d\\.\\d\\d)\\%\\)");
         Matcher matcher = regex.matcher(html);
         if (matcher.find() == true) {
             change = matcher.group(1);
@@ -230,10 +220,11 @@ public class WebReader {
     
     private String[] loadKeys() {
         String key;
-        int index = symbols.length;
+        symbols = new String[NUM_SYMBOLS];
+        int index = NUM_SYMBOLS;
         try {
-            fileReader = new FileReader(SYMBOL_PATH);
-            bufferedReader = new BufferedReader(fileReader);
+            FileReader fileReader = new FileReader(SYMBOL_PATH);
+            BufferedReader bufferedReader = new BufferedReader(fileReader);
             int localIndex = 0;
             while (localIndex < index) {
                 key = bufferedReader.readLine();

@@ -5,6 +5,9 @@
  */
 package source;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -17,7 +20,13 @@ public class StockParser {
     public ArrayList<Stock> stocks;
     
     public static void main(String[] args) {
-        WebReader test = new WebReader();
+        WebReader reader = new WebReader();
+        
     }
+    
+    
+    
+    
+    
     
 }

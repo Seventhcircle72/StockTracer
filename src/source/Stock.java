@@ -24,7 +24,7 @@ public class Stock {
     private double dividend = 0;                                                    // Dividend amount
     private double annualYield = 0;                                                 // Annual dividend yield per share
     private PayoutInformation payout = PayoutInformation.None;                      // Quarterly or Monthly dividends
-    private String link;                                                               // URL link to TMX quote page
+    private String link;                                                            // URL link to TMX quote page
     // End of variable declaration
     
     // Get and Set methods
@@ -151,8 +151,8 @@ public class Stock {
         DecimalFormat decimal = new DecimalFormat("##0.00#");
         String result = "";
         result += (getName() + getSymbol() + " | $" + getPrice() +  "\n" 
-                + "Change: $" + getChange() + " (" + getChangePercent() + "%)" 
-                + "\n"
+                + "Change: $" + decimal.format(getChange()) + " (" 
+                + decimal.format(getChangePercent()) + "%)" + "\n"
                 + "Dividend: $" + decimal.format(getDividend()) + "\n"
                 + "Dividend Payout: " + getPayoutInfo() + "\n"
                 + "Yield: " + decimal.format(getAnnualYield()) + "% ($" 
