@@ -5,13 +5,9 @@
         <group>
             <file>file:/X:/NetBeansProjects/StockTracer/src/source/WebReader.java</file>
             <file>file:/X:/NetBeansProjects/StockTracer/src/source/Stock.java</file>
-            <file>file:/X:/NetBeansProjects/StockTracer/src/source/PayoutInformation.java</file>
             <file>file:/X:/NetBeansProjects/StockTracer/src/source/StockParser.java</file>
-            <file>file:/X:/NetBeansProjects/StockTracer/src/resources/TSX.txt</file>
-            <file>file:/X:/NetBeansProjects/StockTracer/src/source/StringSlicer.java</file>
             <file>file:/X:/NetBeansProjects/StockTracer/src/resources/example_file.txt</file>
-            <file>file:/X:/NetBeansProjects/StockTracer/src/resources/TSXkeys.txt</file>
-            <file>file:/X:/NetBeansProjects/StockTracer/src/source/Exchange.java</file>
+            <file>file:/X:/NetBeansProjects/StockTracer/src/source/StockTemplate.java</file>
         </group>
     </open-files>
 </project-private>

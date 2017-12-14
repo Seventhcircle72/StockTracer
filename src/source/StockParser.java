@@ -21,6 +21,8 @@ public class StockParser {
     
     public static void main(String[] args) {
         WebReader reader = new WebReader();
+        StockTemplate template = new StockTemplate();
+        template.setAvgPrice(10);
         
     }
     

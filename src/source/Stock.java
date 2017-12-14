@@ -60,6 +60,10 @@ public class Stock {
     // End of Get and Set methods
 
     // Constructor
+    public Stock() {
+        
+    }
+    
     public Stock(String symbol, String stockName, double stockPrice,
             double dividend, String url, PayoutInformation interest, String exDiv, 
             double change, double changePercent) {

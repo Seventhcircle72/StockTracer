@@ -11,5 +11,6 @@ package source;
  */
 public enum PayoutInformation
 {
-    Monthly, Quarterly, None,
+    Monthly, Quarterly, None,           // Standard payout format
+    Any,                                // Unique for stock comparison
 }

@@ -16,6 +16,7 @@ import java.io.PrintWriter;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.text.DateFormat;
+import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
@@ -24,6 +25,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import sun.misc.IOUtils;
 
 /**
  *
@@ -41,14 +43,56 @@ public class WebReader {
     
     public WebReader() {
         loadKeys();
+        //ArrayList<Stock> stocks = getAllStocksOverYieldThresh(7);
+        //for (Stock s : stocks) {
+        //    System.out.println(s);
+        //}
     }
     
-    public boolean isOverYieldPercent(Stock stock, double yieldPercent) {
-        boolean result = false;
-        if (stock.getAnnualYield() > yieldPercent) {
-            result = true;
+    public ArrayList<Stock> getAllStocksOverYieldThresh(double threshold) {
+        ArrayList<Stock> result = new ArrayList<Stock>();
+        int counter = 0;
+        double localIndex = 0;
+        for (String key : symbols) {
+            String html = connectToURL(URL_PATH + key);
+            double yield = findYield(html);
+            if (yield > threshold) {
+                Stock stock = generateStock(html, URL_PATH + key);
+                result.add(stock);
+                writeToOutputFile("./src/resources/example_file.txt", stock.toString());
+            }
+            if (counter == 50) {
+                DecimalFormat f = new DecimalFormat("##0.00");
+                System.out.println(f.format((localIndex / NUM_SYMBOLS) * 100) + "% Complete...");
+                counter = 0;
+            } else {
+                counter++;
+            }
+            localIndex++;
         }
         return result;
+    }
+    
+    private void appendToOutputFile(String path, String toWrite) {
+        try {
+            FileWriter f = new FileWriter(path, true);
+            BufferedWriter w = new BufferedWriter(f);
+            w.append(toWrite);
+            w.close();
+        } catch (IOException ex) {
+            System.out.println("IO Exception, appendToOutputFile(String, String)");
+        }
+    }
+    
+    private void writeToOutputFile(String path, String toWrite) {
+        try {
+            FileWriter f = new FileWriter(path, false);
+            BufferedWriter w = new BufferedWriter(f);
+            w.append(toWrite);
+            w.close();
+        } catch (IOException ex) {
+            System.out.println("IO Exception, writeToOutputFile(String, String)");
+        }
     }
     
     public String[] getSymbols() {
@@ -183,6 +227,18 @@ public class WebReader {
         Matcher matcher = regex.matcher(html);
         if (matcher.find() == true) {
             result = matcher.group(1);
+        }
+        return result;
+    }
+    
+    private double findYield(String html) {
+        double result = 0;
+        String price = "";
+        Pattern regex = Pattern.compile("\\<td class\\=\\\"\\\"\\>Yield\\:\\<\\/td\\>\\s*\\<td class\\=\\\"\\\"\\>(\\d?\\d\\.\\d\\d\\d?)\\<\\/td\\>");
+        Matcher matcher = regex.matcher(html);
+        if (matcher.find() == true) {
+            price = matcher.group(1);
+            result = Double.valueOf(price);
         }
         return result;
     }

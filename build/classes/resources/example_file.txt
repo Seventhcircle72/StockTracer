@@ -1,1653 +1,618 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="en">
-<head>
-<title>PowerShares S&P 500 Low Volatility Index ETF [ULV.C] | PowerShares S&P 500 Low Volatility Index ETF Stock Quotes | TMXmoney</title>
-<meta name="Description" value="View detailed stock price information for PowerShares S&P 500 Low Volatility Index ETF [ULV.C] from TMXmoney including charting and last 25 trades.">
-<meta name="Keywords" value="stock market quotes, stock market quote, stock market symbols, stock market symbol">
-<meta NAME="WT.cg_n" CONTENT="Quotes and Charts;English;TMXMoney">
-<meta NAME="WT.cg_s" CONTENT="Detailed Quote Page">
-<meta NAME="WT.ti" CONTENT="English > TMXMoney > Quotes and Charts > Detailed Quote Page > Quote">
-<!-- Apple Touch Icons -->
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.tmxmoney.com/en/images/apple-touch-icon-57x57.png" />
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.tmxmoney.com/en/images/apple-touch-icon-114x114.png" />
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.tmxmoney.com/en/images/apple-touch-icon-72x72.png" />
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.tmxmoney.com/en/images/apple-touch-icon-144x144.png" />
-<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://www.tmxmoney.com/en/images/apple-touch-icon-60x60.png" />
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.tmxmoney.com/en/images/apple-touch-icon-120x120.png" />
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.tmxmoney.com/en/images/apple-touch-icon-76x76.png" />
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.tmxmoney.com/en/images/apple-touch-icon-152x152.png" />
-
-<!-- FAVIcons -->
-<link rel="icon" type="image/png" href="https://www.tmxmoney.com/en/images/favicon-196x196.png" sizes="196x196" />
-<link rel="icon" type="image/png" href="https://www.tmxmoney.com/en/images/favicon-96x96.png" sizes="96x96" />
-<link rel="icon" type="image/png" href="https://www.tmxmoney.com/en/images/favicon-32x32.png" sizes="32x32" />
-<link rel="icon" type="image/png" href="https://www.tmxmoney.com/en/images/favicon-16x16.png" sizes="16x16" />
-<link rel="icon" type="image/png" href="https://www.tmxmoney.com/en/images/favicon-128.png" sizes="128x128" />
-
-<!-- Microsoft Touch Icons -->
-<meta name="application-name" content="&nbsp;" />
-<meta name="msapplication-TileColor" content="#FFFFFF" />
-<meta name="msapplication-TileImage" content="https://www.tmxmoney.com/en/images/mstile-144x144.png" />
-<meta name="msapplication-square70x70logo" content="https://www.tmxmoney.com/en/images/mstile-70x70.png" />
-<meta name="msapplication-square150x150logo" content="https://www.tmxmoney.com/en/images/mstile-150x150.png" />
-<meta name="msapplication-wide310x150logo" content="https://www.tmxmoney.com/en/images/mstile-310x150.png" />
-<meta name="msapplication-square310x310logo" content="https://www.tmxmoney.com/en/images/mstile-310x310.png" />
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="google" value="notranslate">
-<link rel="stylesheet" media="screen" href="https://www.tmxmoney.com/en/styles/screen.css?v=1.0.44">
-<link rel="stylesheet" media="screen" href="https://www.tmxmoney.com/en/styles/market_activity.css?v=1.0.44">
-<link rel="stylesheet" media="print"  href="https://www.tmxmoney.com/en/styles/print.css?v=1.0.44">
-<link rel="stylesheet" media="screen" href="https://www.tmxmoney.com/en/styles/tradenow_styles.css?v=1.0.44">
-<script type="text/javascript" src="/assets/new/en/scripts/jquery.js?v=1.0.44"></script>
-<script>
-  function getBaseLocation(){  
-      var appslocation = "https://app.tmxmoney.com";
-      var base         = "https://www.tmxmoney.com";
-      var qmbase       = "https://web.tmxmoney.com";
-      var tmxbase      = "https://www.tmx.com";
-      var api          = "https://api.tmxmoney.com";
-      var w3           = "https://app.tmxmoney.com/w3";
-      var locale       = "en";
-
-      return { 
-        'apps'    : appslocation,
-        'base'    : base,
-        'qmbase'  : qmbase,
-        'tmxbase' : tmxbase,
-        'w3'      : w3,
-        'api'     : api,
-        'locale'  : locale
-      };
-  }
-</script>
-<script type="text/javascript" src="https://www.tmxmoney.com/en/scripts/homepage.js?v=1.0.44"></script>
-<script type="text/javascript" src="https://www.tmxmoney.com/en/scripts/scripts.js?v=1.0.44"></script>
-<script type="text/javascript" src="https://app.quotemedia.com/js/qmjquery/1.3.2/jquery.js"></script>
-<script type="text/javascript" src="/assets/js/jquery.idlepoll.js"></script>
-<script type="text/javascript" src="/assets/js/jquery.tooltip.v.1.1.js"></script>
-<script type="text/javascript">
-(function($){
-	$(window).bind("load",function () { $("*[title]").simpletooltip(); });
-    })($QM);
-</script>
-	<link rel="stylesheet" type="text/css" href="https://www.tmxmoney.com/en/styles/quote-top.css?v=1.0.44">
-<link rel="stylesheet" media="screen" href="/assets/css/qm_override.css?v=1.0.44">
-  <!-- Begin comScore Tag -->
-  <script>
-    var _comscore = _comscore || [];
-    _comscore.push({ c1: "2", c2: "22162107" });
-    (function() {
-      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-      el.parentNode.insertBefore(s, el);
-    })();
-  </script>
-  <!-- End comScore Tag -->
-
-<!-- Begin comScore Tag -->
-<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
-<script>
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-</script>
-<!-- End comScore Tag -->
-</head><!-- The body id controls the highlighted top navigation -->
-<body>	<!-- Begin comScore Tag -->
-<noscript>
-  <img src="https://b.scorecardresearch.com/p?c1=2&c2=22162107&cv=2.0&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
-<div id="adWrapper">
-	<div id="topAdWrapper" style="position:relative">
-		<div id="topAd">
-			<div id="topAdLeaderboard">
-									<script src="https://www.tmxmoney.com/en/scripts/adTags/leaderboard_cetf.js?v=1.0.44" type="text/javascript"></script>
-							</div>
-		</div>
-	</div>
-</div>
-<div id="pageWrapper">
-	<div id="includedContent"></div>	
-	<script type="text/javascript">showHeader();</script>
-	<div id="contentWrapper">
-	<div id="innerContent" class="clearfix"> 
-		<div id="innerHeader" class="clearfix"> 
-			<div id="innerHeaderBreadcrumbs">
-				<a href="https://www.tmxmoney.com/en/index.html">Home</a>
-				 &gt; <a href="https://web.tmxmoney.com/marketsca.php">Market Activity</a> &gt; <a href="https://web.tmxmoney.com/getquote.php">
-	Get Quotes</a> &gt; 
-	Quote			</div>
-			<div id="innerHeaderPrintHelp">
-			<script type="text/javascript" src="https://www.tmxmoney.com/en/scripts/printHelp.js?v=1.0.44"></script></div>
-		</div>
-
-<!-- MAIN CONTENT OF PAGE GOES WITHIN HERE --><script type="text/javascript" src="https://www.tmxmoney.com/en/scripts/survey/surveyOpen_qr.js"></script>
-
-<!-- <link rel="stylesheet" href="https://app.quotemedia.com/css/tools.css"> -->
-
-<script>
-    googletag.cmd.push(function() {
-    googletag.defineSlot('/86679105/TMXMoney_EN/QuotePages/Leaderboard', [728, 90], '34').addService(googletag.pubads());
-	googletag.defineSlot('/86679105/TMXMoney_EN/QuotePages/Skyscraper', [160, 600], '35').addService(googletag.pubads());
-	googletag.defineSlot('/86679105/TMXMoney_EN/QuotePages/Bigbox', [300, 250], '36').addService(googletag.pubads());
-	googletag.pubads().enableSingleRequest();
-	googletag.enableServices();
-  });
-
-</script>
-
-<script type="text/javascript">
-	(function(jQuery){
-		$ccode = '';
-		$fA = 0;
-		var locale = 'EN';
-		jQuery(document).ready(function () {
-			jQuery('.quote-logo img').each(function(){
-			    var img = new Image();
-			    img.onload = function() {
-			        jQuery('.quote-logo img').show();
-			    }
-			    img.src = jQuery(this).attr('src');
-			    var w = jQuery('.quote-logo img').width();
-				var h = jQuery('.quote-logo img').height();
-				if (w != 159) {
-					if (h > 50) {
-						jQuery('.quote-logo img').attr('height', '50');
-					} else if (w > 150) {
-						jQuery('.quote-logo img').attr('width', '150');
-					}
-				}
-			});
-		});
-	})(jQuery);
-
-	function Week52Pop(pop) {
-		var popOffset = jQuery('.'+pop).offset();
-		jQuery('.HighLowPopup').css({
-			'position':'absolute',
-			'z-index':'100',		
-			'top' : Math.round(popOffset.top+jQuery('.'+pop).outerHeight()) + 'px',
-			'left' : Math.round(popOffset.left) + 'px'
-		}).show();
-	}
-	function closePop() {
-		jQuery('.HighLowPopup').hide();
-	}
-</script>
-	<div class="quote-wrapper">
-		<div class="quote-details">
-				<div class="quote-row">
-					<div class="quote-name">
-					<h2>PowerShares S&P 500 Low Volatility Index ETF</h2>
-					Exchange: TSX Exchange |
-														Dec 7, 2017, 5:22 PM EST												</div>
-					<div class="quote-logo"><img class='symbollogo' alt='logo' src='https://www.tmxmoney.com/en/images/logos/ulvlogo.gif' style="display:none;"></div>
-				</div>
-				<hr />
-				<div class="quote-row" id="quote_data" style="">
-					<div class="quote-ticker tickerLarge">ULV.C</div>
-					<div class="quote-price priceLarge">
-						$						<span>22.56</span>
-																		<img alt="real time data" src="/assets/img/icons/real-time-en.png?v=1.0.44"  border="0" align="absmiddle" />						<img alt="Change Up" src='/assets/img/up.gif' width="23" height="23" border="0" align="absmiddle" />
-					</div>
-
-					<div class="quote-change changeLarge change-up">
-												<span class="quote-small-text">Change:</span><br />
-														0.31 
-							(1.39%)
-																		</div>
-					<div class="quote-volume volumeLarge">
-						<span class="quote-small-text">Volume:</span><br />
-												400											</div>
-				</div>
-				<span class="rt-msg">Real-time price</span>
-				<hr />
-<div class="quote-row">
-<div class="day-range">
-		<div class="day-low">
-			<strong>Day Low</strong>
-			22.56			</div>
-		<div class="day-high">
-			<strong>Day High</strong>
-			22.56			</div>
-		<div class="lowHighBar" title="Prev. Close: 22.25 (arrow)<br>Last Price: 22.56 (bar)">
-						<div class="triangle_indicator" style="position : relative; left:48%"></div>
-			<div class="bar">
-								<div class="filler" style="width:50%"></div>
-			</div>
-	</div>
-</div>
-	<div class="week-range">
-				<div class="week-low">
-			<a href="javascript:Week52Pop('week-low');"><strong>52 Week Low</strong></a>
-			19.85		</div>
-										
-		<div class="week-high">
-			<a href="javascript:Week52Pop('week-high');"><strong>52 Week High</strong></a>
-			22.58		</div>
-				<div class="lowHighBar" title="52 Week Low: 19.85<br>52 Week High: 22.58 ">
-			<!-- (bar)   (arrow) -->
-						<div class="triangle_indicator" style="position: relative; left:86%"></div>
-
-			<div class="bar">
-								<div class="filler" style="width:99%"></div>
-			</div>
-		</div>
-	</div>
-</div>
-<br /><br />
-	<ul class="quote-buttons">
-	<li class="add-to-portfolio icon"><a href="javascript:" onclick="var accWin = window.open('login.php?qmLoginType=portfolio&qmReqSymbol=ULV.C','accWin','scrollbars=yes,resizable=yes,menubar=yes,toolbar=yes,height='+screen.height+',width='+screen.width);accWin.focus();">Add to Portfolio</a></li>
- 		<li class="trade-now"><strong>Trade <span id="tradesymbol"></span> Now</strong></li>
-		<li class="watch-video"><strong>Watch Video</strong></li>
-	</ul>
-</div>
-
-<div class="quote-box-ad" style="min-height:250px;">
-	<div class="bigbox">
-					<script src="https://www.tmxmoney.com/en/scripts/adTags/bigBox_cetf.js?v=1.0.44" type="text/javascript"></script>
-			</div>
-</div>
-
-<script src="https://player.vimeo.com/api/player.js"></script>
-<!-- <script type="text/javascript" src="includes/videos.js"></script> -->
-<script type="text/javascript" src="https://www.tmxmoney.com/en/scripts/videos.js"></script>
-<script type="text/javascript">
-
- 
-var symbol = String('ULV.C');	
-MYLIBRARY.init([symbol, 1, "controlId"]);
-var myvideo = MYLIBRARY.helloWorld();
-
-if(typeof myvideo != 'undefined'){
-
-var playedvideos = [];
-var played = false;
-
- if(localStorage.getItem("videos")){
-		playedvideos = JSON.parse(localStorage.getItem("videos"));
- }
-
- for (var i = 0; i < playedvideos.length; i++){
- 	if(playedvideos[i] == myvideo.video){
- 		played = true;
- 	}
- }
-
- if(myvideo.platform=='youtube'){
-
-		var tag = document.createElement('script');
-		tag.src = "https://www.youtube.com/iframe_api";
-		var firstScriptTag = document.getElementsByTagName('script')[0];
-		firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-		var player;
-
-		function onYouTubeIframeAPIReady() {
-		    player = new YT.Player('player', {
-		    	videoId: myvideo.video,
-		    	width:'100%',
-	        	height:480,
-		    	events: {
-		        	'onStateChange': onPlayerStateChange
-		      	}
-		    });
-		}
-
-		function onPlayerStateChange(event) {
-		    if (event.data == YT.PlayerState.PLAYING && !played) {
-		    	playedvideos.push(myvideo.video);
-		    	localStorage.setItem("videos", JSON.stringify(playedvideos));
-		    	played = true;
-			}
-		}
-
-		function pauseVideo() {
-        	player.pauseVideo();
-      	}
-
-	}
-}
-
- $QM( document ).ready(function() {
-
- 	if(typeof myvideo != 'undefined'){
-
-
- 	if(myvideo.platform=='vimeo'){
-
-	    var options = {
-	        id: myvideo.video,
-	        width:940,
-	        height:480
-		};
-
-    	var player = new Vimeo.Player('player',options);
-
-	    player.on('play', function() {
-	    	if (!played) {
-	    		console.log('clickplay')
-		        playedvideos.push(myvideo.video);
-		    	localStorage.setItem("videos", JSON.stringify(playedvideos));
-		    	played = true;
-	    	}
-	    });
-	}
-
-	$QM('li.watch-video').click(function(){
-		$QM('.video-player').slideDown();
-	});	
-
-	if(!played){
-		$QM('.video-player').css('display','block');
-	} else {
-		$QM('li.watch-video').css('display','inline-block');	
-	}
-
-	$QM('.player-close').click(function(){
-		$QM('.video-player').slideUp();
-		$QM('li.watch-video').css('display','inline-block');
-		if(myvideo.platform=='youtube'){
-			pauseVideo();
-		} else if(myvideo.platform=='vimeo'){
-			player.pause();
-		}
-	});
-}
-
-});	
-
-</script>
-
-<div class="video-player">
-	<div class="player-container">
-		<button class="player-close" title="Close Video">X</button>
-		<div class="video-iframe" id="player"></div>
-	</div>
-</div>
-
-<!--  Start of 52 Week High/Low Popup  -->
-<div class="HighLowPopup" style="display: none;">
-	<table cellspacing="0">
-		<tr>
-			<th>52 Week Information</th>
-			<th align="right"><a href="javascript:closePop();">close</a></th>
-		</tr>
-		<tr>
-			<td>
-				52 Week High				<br>
-				2017-11-29				<br>
-				High: 22.58			</td>
-			<td>
-				52 Week Low				<br>
-				2017-02-01				<br>
-				Low: 19.85			</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-				<img alt="chart" src="https://app.quotemedia.com/quotetools/getChart?webmasterId=101020&snap=true&symbol=ULV.C&chscale=1y&chtype=line&chwid=220&chhig=120&chmrg=0&chfrmon=off&chton=false&chlgdon=off&ch52on=on&chgrd=D8DCE5&chbdr=D8DCE5&chln=313942&chaaon=true&locale=en">
-			</td>
-		</tr>
-	</table>
-</div>
-<div class="clear-quote"></div></div>
-<!--  End of 52 Week High/Low Popup  -->
-
-
-<div class="quote-tabs">
-<ul class="innerpage-tabs">
-	<li id="quoteTab" class="first">
-		<a href="https://app.quotemedia.com/quotetools/clientForward?targetsym=qm_symbol&symbol=ULV.C&targetURL=https://web.tmxmoney.com/quote.php&locale=en">
-			<span>Quote</span>
-		</a>
-	</li>
-	<li id="chartingTab">
-		<a href="https://app.quotemedia.com/quotetools/clientForward?targetsym=qm_symbol&symbol=ULV.C&targetURL=https://web.tmxmoney.com/charting.php&locale=en">
-			<span>Charting</span>
-		</a>
-	</li>
-	<li id="newsTab">
-		<a href="https://app.quotemedia.com/quotetools/clientForward?targetsym=qm_symbol&symbol=ULV.C&action=showNews&targetURL=https://web.tmxmoney.com/news.php&locale=en">
-			<span>News</span>
-		</a>
-	</li>
-	<li id="companyTab">
-		<a href="https://app.quotemedia.com/quotetools/clientForward?targetsym=qm_symbol&symbol=ULV.C&action=showProfile&targetURL=https://web.tmxmoney.com/company.php&locale=en">
-			<span>Company</span>
-		</a>
-	</li>
-	<li id="financialsTab">
-		<a href="https://app.quotemedia.com/quotetools/clientForward?targetsym=qm_symbol&symbol=ULV.C&action=showFinancials&targetURL=https://web.tmxmoney.com/financials.php&locale=en">
-			<span>Financials</span>
-		</a>
-	</li>
-	<li id="pricehistoryTab">
-		<a href="https://app.quotemedia.com/quotetools/clientForward?targetsym=qm_symbol&symbol=ULV.C&action=showHistory&targetURL=https://web.tmxmoney.com/pricehistory.php&locale=en">
-			<span>Price History</span>
-		</a>
-	</li>
-	<li id="optionsTab">
-		<a href="https://app.quotemedia.com/quotetools/clientForward?targetsym=qm_symbol&symbol=ULV.C&action=showOptions&targetURL=https://web.tmxmoney.com/options.php&locale=en">
-			<span>Options</span>
-		</a>
-	</li>
-	<li id="researchTab">
-		<a href="https://app.quotemedia.com/quotetools/clientForward?targetsym=qm_symbol&symbol=ULV.C&action=showAnalyst&targetURL=https://web.tmxmoney.com/research.php&locale=en">
-			<span>Research</span>
-		</a>
-	</li>
-	<li id="dividendsTab">
-		<a href="https://app.quotemedia.com/quotetools/clientForward?targetsym=qm_symbol&symbol=ULV.C&action=showDetailedQuote&symbol=&targetURL=https://web.tmxmoney.com/dividends.php%3Fqm_symbol%3DULV.C&locale=en">
-			<span>Dividends</span>
-		</a>
-	</li>
-</ul>
-</div>
-
-<script type="text/javascript">
-	var phpFile = location.pathname;
-	phpFile = phpFile.replace("/","");
-	phpFile = phpFile.replace(".php","");
-
-	if(phpFile=="earnings") { phpFile = "research"; }
-	if(phpFile=="article") { phpFile = "news"; }
-	if(phpFile=="article") { phpFile = "news"; }
-	if(phpFile=="futuresmini-index-quote") { phpFile = "futuresmini-index"; }
-	if(phpFile=="futures-index-quote") { phpFile = "futures-index"; }
-	if((phpFile=="options-active") || (phpFile=="options-greeks") || (phpFile=="options-quote")) { phpFile = "options"; }
-
-	if(phpFile=="index_performance") { phpFile='performance'; }
-	if(phpFile=="index_sector") { phpFile='sector'; }
-	if(phpFile=="index_constituents") { phpFile='constituents'; }
-	if(phpFile=="index_profile") { phpFile='profile'; }
-
-	var currentTab = phpFile + "Tab";
-	
-	var getCurrentTab = document.getElementById(currentTab);
-
-	if (getCurrentTab.className == "first")
-	{
-		getCurrentTab.className = "first active"
-	}
-	else if (getCurrentTab.className == "last")
-	{
-		getCurrentTab.className = "last active";
-	}
-	else
-	{
-		getCurrentTab.className = "active";
-	}
-</script>
-<script type="text/javascript">
-$QM(document).ready(function () {
-	$QM('.chart-event').bind('click', function() {
-		var name = $QM(this).attr('name');
-		if ($QM(this).is(':checked')) {
-			var val = $QM(this).val();
-		} else {
-			var val = 'off';
-		}
-		updateChart(name,val);
-	});
-	var timestamp =  new Date().getTime();
-	function updateChart(name,val) {
-		var chartimgs = $QM('.quote-chart img');
-		var chartimg = null;
-		$QM.each(chartimgs, function () {
-			if($QM(this).attr('id').match('qm_img_')) {
-				chartimg=$QM(this);
-				return;
-			}
-		});
-		var chartSrc = $QM(chartimg).attr('src');
-		if(chartSrc.search('&timestamp=' + timestamp)>-1){
-			chartSrc = chartSrc.replace('&timestamp=' + timestamp,'');
-		}
-		timestamp = new Date().getTime();
-		chartSrc += '&timestamp=' + timestamp;
-		if(chartSrc.match(name)) {
-			var regex = new RegExp('(' + name + ')(\=)([a-z]+)','gi');
-			chartSrc=chartSrc.replace(regex,'$1$2' + val);
-		} else {
-			chartSrc = chartSrc + "&" + name + '=' + val;
-		}
-		console.log(chartSrc);
-		$QM(chartimg).attr('src',chartSrc);
-	}
-	$QM('.qmmt_tabactive,.qmmt_tab').bind('click',function(event) { 
-		var txt = $QM(this).text();
-		if(txt.toString().match("Today") || txt.toString().match("5d") || txt.toString().match("1m")) {
-			disableEvents();
-			disableChartEvents();
-		} else {
-			enableEvents();
-			enableChartEvents();
-		}
-	});
-	function disableChartEvents() {
-		updateChart('chsplton','off');
-		updateChart('chdivdon','off');
-		updateChart('chearnon','off');
-	}
-	function enableChartEvents() {
-		var events = $QM('.chart-event');
-		$QM.each(events, function () {
-			if($QM(this).is(":checked")) {
-				updateChart($QM(this).attr('name'),$QM(this).val());
-			}
-		});
-	}
-	function enableEvents() {
-		$QM('.chart-events').removeClass('events-disabled');
-		$QM('.chart-events input').attr('disabled','');
-	}
-	function disableEvents() {
-		$QM('.chart-events').addClass('events-disabled');
-		$QM('.chart-events input').attr('disabled','true');
-	}
-});
-</script>
-
-<style>
-.qmmt_header_bar {
-	display: none;
-}
-.quote-chart .mainCont {
-	font-family: inherit;
-	margin:0;
-	font-size:inherit;
-	text-align: left;
-}
-.mainCont .qm_chart_cont{
-	padding:0;
-}
-.mainCont .qm_searchbox{
-	display: none;
-}
-#innerContent .qm_chart_cont .dropdown-menu > li.active > a {
-	background: #FEA335;
-	color:#fff;
-}
-#innerContent.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
-	background-color: #FEA335;
-}
-</style>
-
-<div class="chart-wrapper" id="ctnr">
-		<div class="quote-chart">
-			
-		
-		<style type="text/css">
-
-		.chart-wrapper{
-			width: 940px;
-			margin: auto;
-			padding: 0;
-			background: #fafafa;
-			clear: none;
-		}
-
-		.innerpage-tabs{border-bottom:none!important}
-
-		</style>
-
-
-		<iframe src="" id="qmod-chart" width="100%" height="545px" frameborder="0" allowfullscreen></iframe>
-
-		<script type="text/javascript">
-
-				var iframe = document.getElementById('qmod-chart');
-				var html_string = '<html><head><style>html body div#qmIntChart.qtool div.qmod-ui-tool.qmod-simplechart div.qmod-block-wrapper div.qmod-chart-js div.qmod-chart-display div.qmod-chart-btns div.qmod-dd-wrap.qmod-dd-inline.qmod-dd-sm div.qmod-dropdown.qmod-events-dropdown a.qmod-dropdown_toggle.qmod-dropdown-sm.qmod-group,html body div#qmIntChart.qtool div.qmod-ui-tool.qmod-simplechart div.qmod-block-wrapper div.qmod-chart-js div.qmod-chart-display div.qmod-chart-btns div.qmod-dd-wrap.qmod-dd-inline.qmod-dd-sm div.qmod-dropdown a.qmod-dropdown_toggle.qmod-dropdown-sm{background-color:#E9EDEF;border-radius:3px;line-height:25px;text-transform:uppercase;color: #4A4A4A;}html body div#qmIntChart.qtool div.qmod-ui-tool.qmod-simplechart div.qmod-block-wrapper div.qmod-chart-js div.qmod-chart-display div.qmod-chart-btns div.qmod-dd-wrap.qmod-dd-inline.qmod-dd-sm div.qmod-dropdown.qmod-events-dropdown a.qmod-dropdown_toggle.qmod-dropdown-sm.qmod-group i.fa.fa-chevron-down.qmod-pull-right.qmod-f-right,html body div#qmIntChart.qtool div.qmod-ui-tool.qmod-simplechart div.qmod-block-wrapper div.qmod-chart-js div.qmod-chart-display div.qmod-chart-btns div.qmod-dd-wrap.qmod-dd-inline.qmod-dd-sm div.qmod-dropdown a.qmod-dropdown_toggle.qmod-dropdown-sm i.fa.fa-chevron-down.qmod-pull-right.qmod-f-right{line-height:25px}ul.qmod-legend:nth-child(1) > li:nth-child(11){display:none!important}#qmIntChart .qmod-detailedquote .qmod-quotegrid,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-js,#qmIntChart .qmod-ui-tool{margin:0}#qmIntChart{min-height:330px;padding:10px 20px}#qmIntChart .qmod-disclaimer,#qmIntChart .qmod-pricehistory-chart,#qmIntChart .qmod-pricehistory-table td:nth-child(7),#qmIntChart .qmod-pricehistory-table td:nth-child(8),#qmIntChart .qmod-pricehistory-table th:nth-child(7),#qmIntChart .qmod-pricehistory-table th:nth-child(8),#qmIntChart .qmod-quotehead,#qmIntChart h2.qmod-heading{display:none}#qmIntChart .qmod-pricehistory-table-wrap td,#qmIntChart .qmod-pricehistory-table-wrap th,#qmIntChart .qmod-ui-tool input{font-size:13px}.qmod-simplechart.qmod-ui-tool .qmod-chart-js{padding:5px}#qmIntChart .qmod-pricehistory .qmod-pricehistory-table-wrap{padding:0}#qmIntChart .qmod-block-wrapper{box-shadow:none}#qmIntChart .qmod-detailedquote .qmod-quotegrid .qmod-label{margin-right:0;font-weight:400}#qmIntChart .qmod-detailedquote .qmod-quotegrid .qmod-data-point{margin-left:0}#qmIntChart .qmod-popup-title{color:#fff}#qmIntChart .qmod-popup{z-index:100000}#qmIntChart .qmod-weekh-chart img{width:260px}#qmIntChart .qmod-ui-tool input,#qmIntChart li{line-height:inherit}#qmIntChart .qmod-ui-tool input{line-height:initial}#qmIntChart th{background-color:#fff}#qmIntChart .qmod-pricehistory-table-wrap td,#qmIntChart .qmod-pricehistory-table-wrap th{padding-left:0}#qmIntChart .qmod-quotegrid .pure-u-1-2:nth-child(1) div.qmod-box-wrap{padding-right:10px}#qmIntChart .qmod-quotegrid .pure-u-1-2:nth-child(2) div.qmod-box-wrap{padding-left:10px}#qmIntChart .qmod-pricehistory .qmod-modifiers{padding-left:0;padding-right:0}#qmIntChart .qmod-ui-tool a{text-decoration:none}#qmIntChart .qmod-ui-tool .inner-addon .qmod-dd-more i:hover{transform:none}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend>li,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-display .qmod-legend>li{border-right:none;vertical-align:top;list-style:none;display:inline-block}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend>li:first-child{border-radius:3px 0 0 3px}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend.qmod-lnd-time>li{border-radius:3px;margin-left:3px}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend.qmod-lnd-time>li .qmod-dd-more .qmod-dd-more-item a{padding:5px 5px 5px 20px}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend.qmod-lnd-time>li .qmod-dd-more .qmod-dd-more-ul{border-radius:3px;border:1px solid #CACFD3}#qmHeading .qmod-dropdown-menu li>a,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend.qmod-lnd-time>li .qmod-dd-more .qmod-dd-more-item a,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-dropdown-menu li>a{color:#4A4A4A}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend.qmod-lnd-time>li .qmod-dd-more .qmod-dd-more-item{background-color:#FFF}#qmHeading .qmod-dropdown-menu li>a.qmod-active,#qmHeading .qmod-dropdown-menu li>a:hover,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend.qmod-lnd-time>li .qmod-dd-more .qmod-dd-more-item.qmod-active,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend.qmod-lnd-time>li .qmod-dd-more .qmod-dd-more-item:hover:not(.qmod-list-header),#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend>li,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-display .qmod-legend>li,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-dropdown-menu li>a.qmod-active,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-dropdown-menu li>a:hover,#qmIntChart .qmod-ui-tool.qmod-simplechart .qmod-chart-buttons-rs .qmod-legend.qmod-lnd-time .qmod-dd-more-item{background-color:#E9EDEF}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend>li .qmod-dd-more .qmod-dd-more-item:hover:not(.qmod-list-header),#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-display .qmod-legend>li .qmod-dd-more .qmod-dd-more-item:hover:not(.qmod-list-header){background-color:#347722}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend>li .qmod-dd-more .qmod-dd-more-ul,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend>li.qmod-input,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-display .qmod-legend>li .qmod-dd-more .qmod-dd-more-ul,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-display .qmod-legend>li.qmod-input{background-color:#6c9640!important;letter-spacing:initial}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend>li.qmod-active .qmod-btn-text,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-display .qmod-legend>li.qmod-active{background-color:#6c9640;color:#fff}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-display .qmod-legend>li .qmod-btn-text{padding:9px;color:#FFF}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend.qmod-lnd-time .qmod-btn-text,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend>li .qmod-btn-text{padding:9px;color:#4A4A4A}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend>li .qmod-btn-icon,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-display .qmod-legend>li .qmod-btn-icon{padding:0.38em;color:#FFF}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-display .qmod-legend>.qmod-input .qmod-dd-more>i{border-left:2px solid #347722;padding:4px 5px}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend>li .qmod-dd-more>i,#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-display .qmod-legend>li .qmod-dd-more>i{border-left:none;padding:4px 8px}#qmIntChart .qmod-simplechart.qmod-ui-tool .fa-trash-o::before{content:"\f057"}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-display .qmod-legend>li:first-child .qmod-dd-more>i{border-left:2px solid #347722}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend>li .qmod-dd-more>i{border-left:2px solid #CACFD3}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-legend>li{color:#CACFD3}#qmIntChart .qmod-chart-js{text-align:left}#qmIntChart .qmod-dd-more-item,#qmIntChart .qmod-dd-more-item a{color:#fff}#qmHeading a.qmod-dropdown_toggle,#qmIntChart .qmod-simplechart.qmod-ui-tool a.qmod-dropdown_toggle{background-color:transparent;color:#4A4A4A;}#qmHeading a.qmod-dropdown_toggle i,#qmIntChart .qmod-simplechart.qmod-ui-tool a.qmod-dropdown_toggle i{color:#FF952F}#qmIntChart .qmod-simplechart.qmod-ui-tool .qmod-chart-display .qmod-f-right, .qmod-simplechart.qmod-ui-tool .qmod-chart-buttons-rs .qmod-f-right{color:#FF952F !important}</style></head><body>'
-				+'<div id="qmIntChart" data-qmod-tool="interactivechart" data-qmod-params=\'{"symbol":"ULV.C","qmlang":"en","dateRange" : 1,"chart":{"colors": [ "#347722"], "chartType": 1},"compareEnabled" : true,"eventsEnabled" : true,"compareOptionsEnabled" : false,"volumeEnabled": true,"chartTypeEnabled" : true,"marketSessionEnabled": false,"adjType":1}\' class="qtool"></div>'
-				+'<script id="qmod" type="application/javascript" data-qmod-wmid="101020" data-qmod-env="app" src="https://qmod.quotemedia.com/js/qmodLoader.js" charset="UTF-8" sync><\/script>'
-				+'</body></html>';
-
-				
-				var iframedoc = iframe.document;
-		        if (iframe.contentDocument)
-		            iframedoc = iframe.contentDocument;
-		        else if (iframe.contentWindow)
-		            iframedoc = iframe.contentWindow.document;
-			     if (iframedoc){
-			         iframedoc.open();
-			         iframedoc.writeln(html_string);
-			         iframedoc.close();
-			     } else {
-			        console.log('charting not supported in this browser');
-			     }
-
-		</script>
-
-		
-	</div> 
-</div>
-
-<div class="quote-tabs-content">
-	<h2>Detailed Quote</h2>
-		<table width="960">
-			<tr valign="top">
-			<td>
-			<table cellpadding="0" cellspacing="0" width="220" class="detailed-quote-table">
-			<tr class="">
-				<td class="">Open:</td>
-				<td class="">22.56</td>
-			</tr>
-			<tr class="alt">
-				<td class="">High:</td>
-				<td class="">22.56</td>
-			</tr>
-<!-- 			<tr class="">
-				<td class="">Bid:</td>
-				<td class="">0.00</td>
-			</tr>
-			<tr class="alt">
-				<td class="">Bid Size:</td>
-				<td class="">0.00</td>
-			</tr>	 -->
-			<tr>
-				<td class="">Shares Out.:</td>
-				<td class="">200,000</td>
-			</tr>
-			<tr class="">
-								<td class="label qm-new-data">Beta:</td>
-				<td class="">0.994</td>
-			</tr> 
-		</table>
-		</td>
-		<td>
-		<table cellpadding="0" cellspacing="0" width="220" class="detailed-quote-table">
-			<tr class="">
-				<td class="">Prev. Close:</td>
-				<td class="">22.25</td>
-			</tr>
-			<tr class="alt">
-				<td class="">Low:</td>
-				<td class="">22.56</td>
-			</tr>
-<!-- 			<tr class="">
-				<td class="">Ask:</td>
-				<td class="">0.00</td>
-			</tr>
-			<tr class="alt">
-				<td class="">Ask Size:</td>
-				<td class="">0.00</td>
-			</tr> -->
-			<tr class="">
-				<td class="">Market Cap:</td>
-				<td class="">4,512,000				</td>
-			</tr>
-			<tr class="">
-				<td class="label qm-new-data">VWAP:</td>
-				<td class="">22.56</td>
-			</tr>
-			</table>
-		</td>
-		<td>
-		<table cellpadding="0" cellspacing="0" width="220" class="detailed-quote-table">
-			<tr>
-				<td class="">Dividend:</td>
-				<td class="">0.028&nbsp;CAD</td>
-			</tr>
-			<tr class="alt">
-				<td class="">Div. Frequency:</td>
-								<td class="">Monthly</td>
-			</tr>
-			<tr class="alt">
-				<td class="">P/E Ratio:</td>
-				<td class="">23.100</td>
-			</tr>
-			<tr>
-				<td class="">EPS:</td>
-				<td class="">N/A</td>
-			</tr>	
-		</table>
-		</td>
-		<td>
-		<table cellpadding="0" cellspacing="0" width="220" class="detailed-quote-table">
-			<tr class="">
-				<td class="">Yield:</td>
-				<td class="">1.571</td>
-			</tr>
-			<tr class="alt">
-				<td class="">Ex-Div Date:</td>
-				<td class="">11/28/2017</td>	
-			</tr>
-			<tr class="alt">
-				<td class="">P/B Ratio:</td>
-				<td class="">3.100</td>				
-			</tr>
-			<tr class="">				
-				<td class="">Exchange:</td>
-								<td class=""><acronym title="TSX Exchange"><span>					TSX</span></acronym></td>
-			</tr>
-		</table>
-		</td>	
-		</tr>
-
-</table>	
-<div class="additional-linksbox clearfix">
-		<div class="additional-linksboxleft">
-		<h2>Research:</h2>
-		<div id="tmx-interlisted-scripts"></div>
-		<ul>
-			<li>
-			<span id='tmx-interlisted-indicator'>
-			<script type="text/javascript" src="https://api.tmxmoney.com/interlisted/api.js"></script>
-			</span></li>
-			<li>
-			<span id="tmx-moc-indicator">
-			<script type="text/javascript" src="https://api.tmxmoney.com/moc/tmx.lib.js"></script>
-			</span>
-			</li>
-					</ul>
-		</div>
-		
-</div>
-
-
-<div class="description-wrapper clearfix">
-	<div class="quote-newslist">
-		<h2>Description</h2>
-		<div>The ETF seeks to replicate, to the extent reasonably possible and before fees and expenses, the performance of the S&P 500 Low Volatility Index, or an... <a href="https://web.tmxmoney.com/company.php?qm_symbol=ULV.C">More</a><img class="go_arrow" src="https://web.tmxmoney.com/assets/img/icons/bullet_go.png" /></div>
-	</div>
-</div>
-
-
-<!-- news begins -->
-
-<div class="news-wrapper clearfix">
-	<div class="quote-newslist">
-		<h2>News Headlines for PowerShares S&P 500 Low Volatility Index ETF</h2>
-						<ul>
-							<li>
-			<a href="article.php?newsid=7492340641003442&qm_symbol=ULV.C">Invesco announces cash distributions for Canadian-listed PowerShares ETFs</a>
-			<br>
-			Canada Newswire , 4:30 PM EST November 20, 2017</span>
-			</li>
-								<li>
-			<a href="article.php?newsid=4763099397538997&qm_symbol=ULV.C">Invesco announces cash distributions for Canadian-listed PowerShares ETFs</a>
-			<br>
-			Canada Newswire , 4:00 PM EDT October 19, 2017</span>
-			</li>
-								<li>
-			<a href="article.php?newsid=6896478427246889&qm_symbol=ULV.C">Invesco announces cash distributions for Canadian-listed PowerShares ETFs</a>
-			<br>
-			Canada Newswire , 1:00 PM EDT August 21, 2017</span>
-			</li>
-					</ul>
-
-		<div class="quotesnewslink">
-		<a href="https://app.quotemedia.com/quotetools/clientForward?action=showNews&targetsym=qm_symbol&symbol=ULV.C&targetURL=https://web.tmxmoney.com/news.php&locale=en&mobile=false">More News</a> <img src="https://web.tmxmoney.com/assets/img/icons/bullet_go.png" /></div>
-		<div class="newsbottom">
-			
-
-
-				<div class="qmTmxQuoteContent"> <!-- start? -->
-				
-				</div>
-				</div> <!-- end2? -->
-
-
-				</div> <!-- end? -->
-
- 	<div class="frenchad">
-		<div class="bigbox">
-							<script src="https://www.tmxmoney.com/en/scripts/adTags/bigBox_cetf.js?v=1.0.44" type="text/javascript"></script>
-					</div>
-	</div>
-</div>
-<!-- news ends -->
-	<hr>
-
-
-<div class="trades-wrapper clearfix">
-	<h2 style="border-bottom:none;">Last 25 Trades</h2>
-		<div class="qmTrades">
-			<table border="0" cellpadding="0" cellspacing="0" style="width:765px;" class="tablemaster">
-				<tr class="tableheader">
-					<th align="left">Time</th> 
-					<th align="left"></th> 
-					<th align="right">Price</th> 
-					<th align="right">Shares</th> 
-					<th align="right">Change</th>
- 					<th align="right">Exch/Mkt</th> 
-										<th align="right">Buyer</th>
-					<th align="right">Seller</th>
-										<!--<th align="right">Exchange</th>-->
-				</tr>
-																			
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>12/07/2017 3:08 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.56</td>
-					<td align="right">400</td>
-					<td align="right" class="change change-up">0.31</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>12/06/2017 9:30 AM EST</td>
-					<td class='qm-buyer-id'>
-													<a href="#" title="Non Boardlot">E</a>
-											</td>
-					<td align="right">22.25</td>
-					<td align="right">40</td>
-					<td align="right" class="change change-off">0.00</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="Desjardins Securities Inc.<br>1170 Peel Street, Suite 300, Montreal, Quebec H3B 0A9<br>(514) 987-1749">019</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>12/06/2017 9:30 AM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.25</td>
-					<td align="right">200</td>
-					<td align="right" class="change change-off">0.00</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="Desjardins Securities Inc.<br>1170 Peel Street, Suite 300, Montreal, Quebec H3B 0A9<br>(514) 987-1749">019</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="TD Securities Inc.<br>P.O. Box 1, TD Tower, 12th Floor, 66 Wellington Street West, Toronto, ON, M5K 1A2<br>(416) 307-8903">007</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>12/05/2017 10:51 AM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.31</td>
-					<td align="right">300</td>
-					<td align="right" class="change change-up">0.06</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>12/01/2017 3:38 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.36</td>
-					<td align="right">100</td>
-					<td align="right" class="change change-up">0.11</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="TD Securities Inc.<br>P.O. Box 1, TD Tower, 12th Floor, 66 Wellington Street West, Toronto, ON, M5K 1A2<br>(416) 307-8903">007</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/29/2017 12:59 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.58</td>
-					<td align="right">700</td>
-					<td align="right" class="change change-up">0.33</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/29/2017 11:07 AM EST</td>
-					<td class='qm-buyer-id'>
-													<a href="#" title="Non Boardlot">E</a>
-											</td>
-					<td align="right">22.49</td>
-					<td align="right">30</td>
-					<td align="right" class="change change-up">0.24</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="Desjardins Securities Inc.<br>1170 Peel Street, Suite 300, Montreal, Quebec H3B 0A9<br>(514) 987-1749">019</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/29/2017 9:53 AM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.51</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-up">0.26</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="CIBC World Markets Inc.<br>PO Box 500, 161 Bay Street, Toronto, ON, M5J 2S8<br>(416) 594-7000">079</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/28/2017 3:28 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.42</td>
-					<td align="right">100</td>
-					<td align="right" class="change change-up">0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="TD Securities Inc.<br>P.O. Box 1, TD Tower, 12th Floor, 66 Wellington Street West, Toronto, ON, M5K 1A2<br>(416) 307-8903">007</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/17/2017 9:30 AM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.19</td>
-					<td align="right">300</td>
-					<td align="right" class="change change-down">-0.06</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="CIBC World Markets Inc.<br>PO Box 500, 161 Bay Street, Toronto, ON, M5J 2S8<br>(416) 594-7000">079</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="TD Securities Inc.<br>P.O. Box 1, TD Tower, 12th Floor, 66 Wellington Street West, Toronto, ON, M5K 1A2<br>(416) 307-8903">007</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-															
-				<tr class="qmTradesData qm-strikethrough-off">
-					<td>11/16/2017 12:15 PM EST</td>
-					<td class='qm-buyer-id'>
-											</td>
-					<td align="right">22.08</td>
-					<td align="right">500</td>
-					<td align="right" class="change change-down">-0.17</td>
- 					<td align="right" class=" ">TSX</td>
-															<td align="right" class="qm-buyer-id"><a href="#" title="RBC Capital Markets<br>P.O. Box 50, Royal Bank Plaza, South Tower, 200 Bay Street, Toronto, ON, M5J 2W7<br>(416) 842-2000">002</a></td>
-					<td align="right" class="qm-seller-id"><a href="#" title="National Bank Financial Inc.<br>5th Floor, 1155 Metcalfe Street, Montreal, QC, H3B 4S9<br>(514) 879-2222">080</a></td>
-										<!--<td align="right"></td>-->
-				</tr>
-											</table>
-		</div>
-			<div class="trades-ad">
-									<script src="https://www.tmxmoney.com/en/scripts/adTags/skyscraper_cetf.js?v=1.0.44" type="text/javascript"></script>
-							</div>
-	</div>
-
-
-<div class="qm-disclaimer">
-    <div class="qm-disclaimer-logo">
-        <a href="http://www.quotemedia.com" target="_blank"><img alt="QuoteMedia logo" src="https://app.quotemedia.com/quotetools/images/quotemedia-footer-logo.gif" height="33" width="142"></a>
-    </div>
-    <div class="qm-disclaimer-text">
-                Copyright &copy; 
-        <a href="http://www.quotemedia.com" target="_blank">QuoteMedia</a>. 
-        Data delayed 15 minutes unless otherwise indicated. View 
-        <a href="http://www.quotemedia.com/legal/tmx_tos/" target="_blank">delay times</a> 
-        for all exchanges.<br> Market&nbsp;Data powered by <a href="http://www.quotemedia.com" target="_blank" style="font-weight: normal;">QuoteMedia</a>, Fundamentals by Morningstar. See the 
-        QuoteMedia <a href="http://www.quotemedia.com/legal/tmx_tos/" target="_blank">Terms of Use</a>.
-            </div>
-</div></div>
-</div>
-</div>
-
-<link rel="stylesheet" media="print" href="https://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css">
-<script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js"></script>
-
-<script type="text/javascript">
-
-
-jQuery.fn.dataTableExt.oSort['mystring-asc'] = function(x,y) {
-    var retVal;
-
-    x = $(x).text();
-    y = $(y).text();
-
-    x = $.trim(x).replace(',','.').replace(' ',',');
-    y = $.trim(y).replace(',','.').replace(' ',',');
-  
-    if (x==y) retVal= 0;
-    else if (x == "N/A" || x == "s.o.") retVal=  1;
-    else if (y == "N/A" || x == "s.o.") retVal=  -1;
-    else if (x > y) retVal=  1;
-    else retVal = -1;  // <- this was missing in version 1
-  
-    return retVal;
-}
-jQuery.fn.dataTableExt.oSort['mystring-desc'] = function(y,x) {
-    var retVal;
-
-    x = $(x).text();
-    y = $(y).text();
-
-    x = $.trim(x).replace(',','.').replace(' ',',');
-    y = $.trim(y).replace(',','.').replace(' ',',');
-
-    if (x==y) retVal= 0;
-    else if (x == "N/A" || x == "s.o.") retVal=  -1;
-    else if (y == "N/A" || x == "s.o.") retVal=  1;
-    else if (x > y) retVal=  1;
-    else retVal = -1; // <- this was missing in version 1
-  
-    return retVal;
- }
-
-
- jQuery.fn.dataTableExt.oSort['mystringvol-asc'] = function(x,y) {
-    var retVal;
-
-    x = $(x).attr('data-fullnum');
-    y = $(y).attr('data-fullnum');
-
-    console.log(x);
-    console.log(y);
-
-    x = $.trim(x).replace(',','.').replace(' ',',');
-    y = $.trim(y).replace(',','.').replace(' ',',');
-
-    x = parseInt(x);
-    y = parseInt(y);
-
-  
-    if (x==y) retVal= 0;
-    else if (x == "N/A" || x == "s.o.") retVal=  1;
-    else if (y == "N/A" || x == "s.o.") retVal=  -1;
-    else if (x > y) retVal=  1;
-    else retVal = -1;  // <- this was missing in version 1
-  
-    return retVal;
-}
-jQuery.fn.dataTableExt.oSort['mystringvol-desc'] = function(y,x) {
-    var retVal;
-
-    x = $(x).attr('data-fullnum');
-    y = $(y).attr('data-fullnum');
-
-    x = $.trim(x).replace(',','.').replace(' ',',');
-    y = $.trim(y).replace(',','.').replace(' ',',');
-
-        x = parseInt(x);
-    y = parseInt(y);
-
-    if (x==y) retVal= 0;
-    else if (x == "N/A" || x == "s.o.") retVal=  -1;
-    else if (y == "N/A" || x == "s.o.") retVal=  1;
-    else if (x > y) retVal=  1;
-    else retVal = -1; // <- this was missing in version 1
-  
-    return retVal;
- }
-
-
-
-jQuery.fn.dataTableExt.oSort['mystringz-asc'] = function(x,y) {
-    var retVal;
-    x = $.trim(x).replace(',','.').replace(' ',',');
-    y = $.trim(y).replace(',','.').replace(' ',',');
-  
-    if (x==y) retVal= 0;
-    else if (x == "N/A" || x == "s.o.") retVal=  1;
-    else if (y == "N/A" || x == "s.o.") retVal=  -1;
-    else if (x > y) retVal=  1;
-    else retVal = -1;  // <- this was missing in version 1
-  
-    return retVal;
-}
-jQuery.fn.dataTableExt.oSort['mystringz-desc'] = function(y,x) {
-    var retVal;
-    x = $.trim(x).replace(',','.').replace(' ',',');
-    y = $.trim(y).replace(',','.').replace(' ',',');
-
-    if (x==y) retVal= 0;
-    else if (x == "N/A" || x == "s.o.") retVal=  -1;
-    else if (y == "N/A" || x == "s.o.") retVal=  1;
-    else if (x > y) retVal=  1;
-    else retVal = -1; // <- this was missing in version 1
-  
-    return retVal;
- }
-
-
- jQuery.extend( jQuery.fn.dataTableExt.oSort, {
-    "string-locale-pre": function ( a ) {
-      var x = jQuery(a).text();
-      return x.latinize();
-    },
- 
-    "string-locale-asc": function ( a, b ) {
-        return ((a < b) ? -1 : ((a > b) ? 1 : 0));
-    },
- 
-    "string-locale-desc": function ( a, b ) {
-        return ((a < b) ? 1 : ((a > b) ? -1 : 0));
-    }
-} );
-    
-   jQuery.extend( jQuery.fn.dataTableExt.oSort, {
-    "numeric-comma-pre": function ( a ) {
-              var x = (a == "-") ? 0 : a.replace( /,/, "" );
-              return parseFloat( x );
-    },
- 
-    "numeric-comma-asc": function ( a, b ) {
-        return ((a < b) ? -1 : ((a > b) ? 1 : 0));
-    },
- 
-    "numeric-comma-desc": function ( a, b ) {
-        return ((a < b) ? 1 : ((a > b) ? -1 : 0));
-    }
-} );
-	jQuery.extend( jQuery.fn.dataTableExt.oSort, {
-	    "time-of-day-pre": function ( a ) {
-	    	a = $(a).attr('data-dateraw');
-		  //var x = a.match("\/") ? strtotime(a) : strtotime('12/07/2017 ' + a);
-	  	  return a;
-	    },
-
-	    "time-of-day-asc": function ( a, b ) {
-	        return ((a < b) ? -1 : ((a > b) ? 1 : 0));
-	    },
-
-	    "time-of-day-desc": function ( a, b ) {
-	        return ((a < b) ? 1 : ((a > b) ? -1 : 0));
-	    }
-} );
-
-jQuery('.qm-consolidated-quote table').ready(function () { 
-    jQuery('.qm-consolidated-quote table').dataTable(
-    {'bFilter' : false, 
-    'bAutoWidth' : false, 
-    'bPaginate' : false, 
-    'bInfo' : false, 
-    'bStateSave' : false, 
-    'aaSorting' : [], 
-    'aoColumns' : [
-    	{'sType':'mystring'}, //mp
-        { "bSortable": false }, // arrow
-        {'sType':'mystringz'}, //last
-        {'sType':'mystringz'}, //bid
-        {'sType':'mystringz'}, //ask
-        {'sType':'mystringz'}, //open
-        {'sType':'mystringz'}, //high
-        {'sType':'mystringz'}, //low
-        {'sType':'mystringvol'}, //vol
-        {'sType':'numeric-comma'}, //vol %
-        {'sType':'mystringz'}, // change
-        {'sType':'numeric-comma'}, // & change
-        {'sType':'time-of-day'}] // Date 
-     }); 
- });
-
-	jQuery(function() {
-				jQuery('.dataTables_empty').text('No data currently available.');
-				if (jQuery('.dataTables_empty').length) {
-			jQuery('.qmTradesHeader').hide();
-			jQuery('.disca').hide();
-		}
-	});
-
-
-	function strtotime(text, now) {
-	  // discuss at: http://phpjs.org/functions/strtotime/
-	  // version: 1109.2016
-	  // original by: Caio Ariede (http://caioariede.com)
-	  // improved by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)
-	  // improved by: Caio Ariede (http://caioariede.com)
-	  // improved by: A. Matías Quezada (http://amatiasq.com)
-	  // improved by: preuter
-	  // improved by: Brett Zamir (http://brett-zamir.me)
-	  // improved by: Mirko Faber
-	  // input by: David
-	  // bugfixed by: Wagner B. Soares
-	  // bugfixed by: Artur Tchernychev
-	  // note: Examples all have a fixed timestamp to prevent tests to fail because of variable time(zones)
-	  // example 1: strtotime('+1 day', 1129633200);
-	  // returns 1: 1129719600
-	  // example 2: strtotime('+1 week 2 days 4 hours 2 seconds', 1129633200);
-	  // returns 2: 1130425202
-	  // example 3: strtotime('last month', 1129633200);
-	  // returns 3: 1127041200
-	  // example 4: strtotime('2009-05-04 08:30:00 GMT');
-	  // returns 4: 1241425800
-
-	  var parsed, match, today, year, date, days, ranges, len, times, regex, i, fail = false;
-
-	  if (!text) {
-	    return fail;
-	  }
-
-	  // Unecessary spaces
-	  text = text.replace(/^\s+|\s+$/g, '')
-	    .replace(/\s{2,}/g, ' ')
-	    .replace(/[\t\r\n]/g, '')
-	    .toLowerCase();
-
-	  // in contrast to php, js Date.parse function interprets:
-	  // dates given as yyyy-mm-dd as in timezone: UTC,
-	  // dates with "." or "-" as MDY instead of DMY
-	  // dates with two-digit years differently
-	  // etc...etc...
-	  // ...therefore we manually parse lots of common date formats
-	  match = text.match(
-	    /^(\d{1,4})([\-\.\/\:])(\d{1,2})([\-\.\/\:])(\d{1,4})(?:\s(\d{1,2}):(\d{2})?:?(\d{2})?)?(?:\s([A-Z]+)?)?$/);
-
-	  if (match && match[2] === match[4]) {
-	    if (match[1] > 1901) {
-	      switch (match[2]) {
-	      case '-':
-	        {
-	          // YYYY-M-D
-	          if (match[3] > 12 || match[5] > 31) {
-	            return fail;
-	          }
-
-	          return new Date(match[1], parseInt(match[3], 10) - 1, match[5],
-	            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
-	        }
-	      case '.':
-	        {
-	          // YYYY.M.D is not parsed by strtotime()
-	          return fail;
-	        }
-	      case '/':
-	        {
-	          // YYYY/M/D
-	          if (match[3] > 12 || match[5] > 31) {
-	            return fail;
-	          }
-
-	          return new Date(match[1], parseInt(match[3], 10) - 1, match[5],
-	            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
-	        }
-	      }
-	    } else if (match[5] > 1901) {
-	      switch (match[2]) {
-	      case '-':
-	        {
-	          // D-M-YYYY
-	          if (match[3] > 12 || match[1] > 31) {
-	            return fail;
-	          }
-
-	          return new Date(match[5], parseInt(match[3], 10) - 1, match[1],
-	            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
-	        }
-	      case '.':
-	        {
-	          // D.M.YYYY
-	          if (match[3] > 12 || match[1] > 31) {
-	            return fail;
-	          }
-
-	          return new Date(match[5], parseInt(match[3], 10) - 1, match[1],
-	            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
-	        }
-	      case '/':
-	        {
-	          // M/D/YYYY
-	          if (match[1] > 12 || match[3] > 31) {
-	            return fail;
-	          }
-
-	          return new Date(match[5], parseInt(match[1], 10) - 1, match[3],
-	            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
-	        }
-	      }
-	    } else {
-	      switch (match[2]) {
-	      case '-':
-	        {
-	          // YY-M-D
-	          if (match[3] > 12 || match[5] > 31 || (match[1] < 70 && match[1] > 38)) {
-	            return fail;
-	          }
-
-	          year = match[1] >= 0 && match[1] <= 38 ? +match[1] + 2000 : match[1];
-	          return new Date(year, parseInt(match[3], 10) - 1, match[5],
-	            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
-	        }
-	      case '.':
-	        {
-	          // D.M.YY or H.MM.SS
-	          if (match[5] >= 70) {
-	            // D.M.YY
-	            if (match[3] > 12 || match[1] > 31) {
-	              return fail;
-	            }
-
-	            return new Date(match[5], parseInt(match[3], 10) - 1, match[1],
-	              match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
-	          }
-	          if (match[5] < 60 && !match[6]) {
-	            // H.MM.SS
-	            if (match[1] > 23 || match[3] > 59) {
-	              return fail;
-	            }
-
-	            today = new Date();
-	            return new Date(today.getFullYear(), today.getMonth(), today.getDate(),
-	              match[1] || 0, match[3] || 0, match[5] || 0, match[9] || 0) / 1000;
-	          }
-
-	          // invalid format, cannot be parsed
-	          return fail;
-	        }
-	      case '/':
-	        {
-	          // M/D/YY
-	          if (match[1] > 12 || match[3] > 31 || (match[5] < 70 && match[5] > 38)) {
-	            return fail;
-	          }
-
-	          year = match[5] >= 0 && match[5] <= 38 ? +match[5] + 2000 : match[5];
-	          return new Date(year, parseInt(match[1], 10) - 1, match[3],
-	            match[6] || 0, match[7] || 0, match[8] || 0, match[9] || 0) / 1000;
-	        }
-	      case ':':
-	        {
-	          // HH:MM:SS
-	          if (match[1] > 23 || match[3] > 59 || match[5] > 59) {
-	            return fail;
-	          }
-
-	          today = new Date();
-	          return new Date(today.getFullYear(), today.getMonth(), today.getDate(),
-	            match[1] || 0, match[3] || 0, match[5] || 0) / 1000;
-	        }
-	      }
-	    }
-	  }
-
-	  // other formats and "now" should be parsed by Date.parse()
-	  if (text === 'now') {
-	    return now === null || isNaN(now) ? new Date()
-	      .getTime() / 1000 | 0 : now | 0;
-	  }
-	  if (!isNaN(parsed = Date.parse(text))) {
-	    return parsed / 1000 | 0;
-	  }
-
-	  date = now ? new Date(now * 1000) : new Date();
-	  days = {
-	    'sun': 0,
-	    'mon': 1,
-	    'tue': 2,
-	    'wed': 3,
-	    'thu': 4,
-	    'fri': 5,
-	    'sat': 6
-	  };
-	  ranges = {
-	    'yea': 'FullYear',
-	    'mon': 'Month',
-	    'day': 'Date',
-	    'hou': 'Hours',
-	    'min': 'Minutes',
-	    'sec': 'Seconds'
-	  };
-
-	  function lastNext(type, range, modifier) {
-	    var diff, day = days[range];
-
-	    if (typeof day !== 'undefined') {
-	      diff = day - date.getDay();
-
-	      if (diff === 0) {
-	        diff = 7 * modifier;
-	      } else if (diff > 0 && type === 'last') {
-	        diff -= 7;
-	      } else if (diff < 0 && type === 'next') {
-	        diff += 7;
-	      }
-
-	      date.setDate(date.getDate() + diff);
-	    }
-	  }
-
-	  function process(val) {
-	    var splt = val.split(' '), // Todo: Reconcile this with regex using \s, taking into account browser issues with split and regexes
-	      type = splt[0],
-	      range = splt[1].substring(0, 3),
-	      typeIsNumber = /\d+/.test(type),
-	      ago = splt[2] === 'ago',
-	      num = (type === 'last' ? -1 : 1) * (ago ? -1 : 1);
-
-	    if (typeIsNumber) {
-	      num *= parseInt(type, 10);
-	    }
-
-	    if (ranges.hasOwnProperty(range) && !splt[1].match(/^mon(day|\.)?$/i)) {
-	      return date['set' + ranges[range]](date['get' + ranges[range]]() + num);
-	    }
-
-	    if (range === 'wee') {
-	      return date.setDate(date.getDate() + (num * 7));
-	    }
-
-	    if (type === 'next' || type === 'last') {
-	      lastNext(type, range, num);
-	    } else if (!typeIsNumber) {
-	      return false;
-	    }
-
-	    return true;
-	  }
-
-	  times = '(years?|months?|weeks?|days?|hours?|minutes?|min|seconds?|sec' +
-	    '|sunday|sun\\.?|monday|mon\\.?|tuesday|tue\\.?|wednesday|wed\\.?' +
-	    '|thursday|thu\\.?|friday|fri\\.?|saturday|sat\\.?)';
-	  regex = '([+-]?\\d+\\s' + times + '|' + '(last|next)\\s' + times + ')(\\sago)?';
-
-	  match = text.match(new RegExp(regex, 'gi'));
-	  if (!match) {
-	    return fail;
-	  }
-
-	  for (i = 0, len = match.length; i < len; i++) {
-	    if (!process(match[i])) {
-	      return fail;
-	    }
-	  }
-
-	  // ECMAScript 5 only
-	  // if (!match.every(process))
-	  // return false;
-
-	  return (date.getTime() / 1000);
-	}
-</script>
-
-			</div>
-		</div>
-	</div>	
-	<div id="footerWrapper" class="clearfix">
-	    <script type="text/javascript">javascript:getFooter();</script>
-		<script type="text/javascript">javascript:getDisclaimer();</script>
-	</div>
-</div>
-
-<div id="qmtip"></div>
-<script type="text/javascript">
-//<![CDATA[
-(function() {
-var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=487684454';
-var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
-})();
-// ]]>
-</script></body>
-</html>				
+Alaris Royalty Corp. [AD] | $18.71
+Change: $0.03 (0.16%)
+Dividend: $0.135
+Dividend Payout: Monthly
+Yield: 8.658% ($1.62)
+-----------------------------------------------------
+Atrium Mortgage Investment Corporation [AI] | $12.4
+Change: $-0.08 (-0.64%)
+Dividend: $0.073
+Dividend Payout: Monthly
+Yield: 7.065% ($0.876)
+-----------------------------------------------------
+AltaGas Ltd. [ALA] | $28.97
+Change: $0.13 (0.45%)
+Dividend: $0.183
+Dividend Payout: Monthly
+Yield: 7.58% ($2.196)
+-----------------------------------------------------
+AltaGas Ltd. subscription receipts [ALA.R] | $28.75
+Change: $0.15 (0.52%)
+Dividend: $0.183
+Dividend Payout: Monthly
+Yield: 7.638% ($2.196)
+-----------------------------------------------------
+Australian Banc Income Fund [AUI.UN] | $10.67
+Change: $-0.03 (-0.28%)
+Dividend: $0.188
+Dividend Payout: Quarterly
+Yield: 7.048% ($0.752)
+-----------------------------------------------------
+Artis Real Estate Investment Trust [AX.UN] | $14.16
+Change: $0.02 (0.14%)
+Dividend: $0.09
+Dividend Payout: Monthly
+Yield: 7.627% ($1.08)
+-----------------------------------------------------
+Atlantic Power Preferred Equity Ltd. 4.85% Cumulative Redeemable Preferred Shares Series 1 [AZP.PR.A] | $16.0
+Change: $0.0 (0.0%)
+Dividend: $0.303
+Dividend Payout: Quarterly
+Yield: 7.575% ($1.212)
+-----------------------------------------------------
+Bombardier Inc. Series 3 Cumulative Redeemable Preferred Shares [BBD.PR.D] | $11.58
+Change: $0.0 (0.0%)
+Dividend: $0.249
+Dividend Payout: Quarterly
+Yield: 8.601% ($0.996)
+-----------------------------------------------------
+Brookfield Global Infrastructure Securities Income Fund [BGI.UN] | $6.83
+Change: $0.08 (1.19%)
+Dividend: $0.15
+Dividend Payout: Quarterly
+Yield: 8.785% ($0.60)
+-----------------------------------------------------
+Bonterra Energy Corp. [BNE] | $14.19
+Change: $0.06 (0.42%)
+Dividend: $0.10
+Dividend Payout: Monthly
+Yield: 8.457% ($1.20)
+-----------------------------------------------------
+Brookfield Real Estate Services Inc. Restricted Voting Shares [BRE] | $16.03
+Change: $0.0 (0.0%)
+Dividend: $0.113
+Dividend Payout: Monthly
+Yield: 8.459% ($1.356)
+-----------------------------------------------------
+Bloom U.S. Income & Growth Fund [BUA.UN] | $8.1
+Change: $0.0 (0.0%)
+Dividend: $0.05
+Dividend Payout: Monthly
+Yield: 7.407% ($0.60)
+-----------------------------------------------------
+Callidus Capital Corporation [CBL] | $10.12
+Change: $0.01 (0.1%)
+Dividend: $0.10
+Dividend Payout: Monthly
+Yield: 11.858% ($1.20)
+-----------------------------------------------------
+Centamin plc Ordinary Shares [CEE] | $2.4
+Change: $0.1 (4.35%)
+Dividend: $0.025
+Dividend Payout: None
+Yield: 1.042% ($0.00)
+-----------------------------------------------------
+Canaccord Genuity Group Inc. Cumulative 5-Year Rate Reset First Preferred Shares Series C [CF.PR.C] | $17.81
+Change: $0.0 (0.0%)
+Dividend: $0.312
+Dividend Payout: Quarterly
+Yield: 7.007% ($1.248)
+-----------------------------------------------------
+Chesswood Group Limited [CHW] | $11.25
+Change: $0.0 (0.0%)
+Dividend: $0.07
+Dividend Payout: Monthly
+Yield: 7.467% ($0.84)
+-----------------------------------------------------
+Cardinal Energy Ltd. [CJ] | $4.81
+Change: $0.01 (0.21%)
+Dividend: $0.035
+Dividend Payout: Monthly
+Yield: 8.732% ($0.42)
+-----------------------------------------------------
+Corus Entertainment Inc. Class B Non-Voting Shares [CJR.B] | $11.59
+Change: $0.03 (0.26%)
+Dividend: $0.095
+Dividend Payout: Monthly
+Yield: 9.836% ($1.14)
+-----------------------------------------------------
+Cominar Real Estate Investment Trust [CUF.UN] | $14.14
+Change: $0.0 (0.0%)
+Dividend: $0.095
+Dividend Payout: Monthly
+Yield: 8.062% ($1.14)
+-----------------------------------------------------
+Caldwell Partners International Inc. (The) [CWL] | $1.06
+Change: $0.0 (0.0%)
+Dividend: $0.02
+Dividend Payout: Quarterly
+Yield: 7.547% ($0.08)
+-----------------------------------------------------
+Dundee Corporation Cumulative Floating Rate First Preference Shares Series 3 [DC.PR.D] | $12.4
+Change: $0.0 (0.0%)
+Dividend: $0.305
+Dividend Payout: Quarterly
+Yield: 9.839% ($1.22)
+-----------------------------------------------------
+Dundee Corporation First Preference Shares Series 5 [DC.PR.E] | $24.28
+Change: $0.0 (0.0%)
+Dividend: $0.469
+Dividend Payout: Quarterly
+Yield: 7.727% ($1.876)
+-----------------------------------------------------
+Dividend 15 Split Corp. II Class A Shares [DF] | $8.43
+Change: $0.0 (0.0%)
+Dividend: $0.10
+Dividend Payout: Monthly
+Yield: 14.235% ($1.20)
+-----------------------------------------------------
+Dividend 15 Split Corp. Class A Shares [DFN] | $10.81
+Change: $-0.02 (-0.18%)
+Dividend: $0.10
+Dividend Payout: Monthly
+Yield: 11.101% ($1.20)
+-----------------------------------------------------
+Dividend Growth Split Corp. Class A Shares [DGS] | $7.92
+Change: $0.0 (0.0%)
+Dividend: $0.10
+Dividend Payout: Monthly
+Yield: 15.152% ($1.20)
+-----------------------------------------------------
+Medical Facilities Corporation [DR] | $13.35
+Change: $0.05 (0.38%)
+Dividend: $0.094
+Dividend Payout: Monthly
+Yield: 8.449% ($1.128)
+-----------------------------------------------------
+Dividend Select 15 Corp. Equity Shares [DS] | $8.62
+Change: $-0.03 (-0.35%)
+Dividend: $0.072
+Dividend Payout: Monthly
+Yield: 10.023% ($0.864)
+-----------------------------------------------------
+DoubleLine Income Solutions Trust [DSL.UN] | $8.94
+Change: $-0.02 (-0.22%)
+Dividend: $0.054
+Dividend Payout: Monthly
+Yield: 7.248% ($0.648)
+-----------------------------------------------------
+Enbridge Income Fund Holdings Inc. [ENF] | $29.03
+Change: $-0.17 (-0.58%)
+Dividend: $0.171
+Dividend Payout: Monthly
+Yield: 7.069% ($2.052)
+-----------------------------------------------------
+Eclipse Residential Mortgage Investment Corporation [ERM] | $10.12
+Change: $0.05 (0.5%)
+Dividend: $0.063
+Dividend Payout: Monthly
+Yield: 7.47% ($0.756)
+-----------------------------------------------------
+Ensign Energy Services Inc. [ESI] | $6.22
+Change: $0.12 (1.97%)
+Dividend: $0.12
+Dividend Payout: Quarterly
+Yield: 7.717% ($0.48)
+-----------------------------------------------------
+Aberdeen Asia-Pacific Income Investment Company Limited [FAP] | $4.57
+Change: $0.0 (0.0%)
+Dividend: $0.033
+Dividend Payout: Monthly
+Yield: 8.665% ($0.396)
+-----------------------------------------------------
+Firm Capital Mortgage Investment Corporation [FC] | $12.71
+Change: $-0.06 (-0.47%)
+Dividend: $0.078
+Dividend Payout: Monthly
+Yield: 7.364% ($0.936)
+-----------------------------------------------------
+Flaherty & Crumrine Investment Grade Fixed Income Fund [FFI.UN] | $13.18
+Change: $0.0 (0.0%)
+Dividend: $0.08
+Dividend Payout: Monthly
+Yield: 7.284% ($0.96)
+-----------------------------------------------------
+North American Financial 15 Split Corp. Class A Shares [FFN] | $8.72
+Change: $-0.02 (-0.23%)
+Dividend: $0.10
+Dividend Payout: Monthly
+Yield: 13.761% ($1.20)
+-----------------------------------------------------
+Faircourt Gold Income Corp. Class A Shares [FGX] | $3.31
+Change: $-0.03 (-0.9%)
+Dividend: $0.024
+Dividend Payout: Monthly
+Yield: 8.701% ($0.288)
+-----------------------------------------------------
+Senior Secured Floating Rate Loan Fund [FRL.UN] | $9.25
+Change: $0.01 (0.11%)
+Dividend: $0.054
+Dividend Payout: Monthly
+Yield: 7.005% ($0.648)
+-----------------------------------------------------
+Gibson Energy Inc. [GEI] | $17.72
+Change: $-0.02 (-0.11%)
+Dividend: $0.33
+Dividend Payout: Quarterly
+Yield: 7.449% ($1.32)
+-----------------------------------------------------
+GMP Capital Inc. 5-Year Rate Reset Preferred Shares Series B [GMP.PR.B] | $11.66
+Change: $0.01 (0.09%)
+Dividend: $0.226
+Dividend Payout: Quarterly
+Yield: 7.753% ($0.904)
+-----------------------------------------------------
+GMP Capital Inc. Cumulative Floating Rate Preferred Shares Series C [GMP.PR.C] | $11.9
+Change: $0.0 (0.0%)
+Dividend: $0.229
+Dividend Payout: Quarterly
+Yield: 7.697% ($0.916)
+-----------------------------------------------------
+Global Real Estate Dividend Growers Corp. Equity Shares [GRL] | $8.25
+Change: $0.0 (0.0%)
+Dividend: $0.05
+Dividend Payout: Monthly
+Yield: 7.273% ($0.60)
+-----------------------------------------------------
+Granite Oil Corp. [GXO] | $3.21
+Change: $0.04 (1.26%)
+Dividend: $0.035
+Dividend Payout: Monthly
+Yield: 13.084% ($0.42)
+-----------------------------------------------------
+Global Telecom & Utilities Income Fund [HGI.UN] | $9.35
+Change: $0.0 (0.0%)
+Dividend: $0.06
+Dividend Payout: Monthly
+Yield: 7.701% ($0.72)
+-----------------------------------------------------
+Healthcare Leaders Income ETF [HHL] | $8.37
+Change: $0.04 (0.48%)
+Dividend: $0.058
+Dividend Payout: Monthly
+Yield: 8.315% ($0.696)
+-----------------------------------------------------
+Healthcare Leaders Income ETF [HHL.U] | $8.27
+Change: $0.0 (0.0%)
+Dividend: $0.058
+Dividend Payout: Monthly
+Yield: 8.416% ($0.696)
+-----------------------------------------------------
+Mainstreet Health Investments Inc. [HLP.U] | $8.49
+Change: $0.01 (0.12%)
+Dividend: $0.061
+Dividend Payout: Monthly
+Yield: 8.622% ($0.732)
+-----------------------------------------------------
+Horizons Natural Gas Yield ETF [HNY] | $10.93
+Change: $0.0 (0.0%)
+Dividend: $0.079
+Dividend Payout: Monthly
+Yield: 8.673% ($0.948)
+-----------------------------------------------------
+American Hotel Income Properties REIT LP [HOT.U] | $7.05
+Change: $0.02 (0.28%)
+Dividend: $0.054
+Dividend Payout: Monthly
+Yield: 9.191% ($0.648)
+-----------------------------------------------------
+American Hotel Income Properties REIT LP [HOT.UN] | $9.03
+Change: $-0.04 (-0.44%)
+Dividend: $0.054
+Dividend Payout: Monthly
+Yield: 7.176% ($0.648)
+-----------------------------------------------------
+Energy Leaders Plus Income ETF [HPF] | $5.16
+Change: $-0.02 (-0.39%)
+Dividend: $0.058
+Dividend Payout: Monthly
+Yield: 13.488% ($0.696)
+-----------------------------------------------------
+Energy Leaders Plus Income ETF [HPF.U] | $5.51
+Change: $0.0 (0.0%)
+Dividend: $0.058
+Dividend Payout: Monthly
+Yield: 12.632% ($0.696)
+-----------------------------------------------------
+Tech Achievers Growth & Income ETF [HTA] | $9.96
+Change: $0.05 (0.5%)
+Dividend: $0.058
+Dividend Payout: Monthly
+Yield: 6.988% ($0.696)
+-----------------------------------------------------
+Voya Diversified Floating Rate Senior Loan Fund [IFL.UN] | $7.75
+Change: $0.0 (0.0%)
+Dividend: $0.05
+Dividend Payout: Monthly
+Yield: 7.742% ($0.60)
+-----------------------------------------------------
+Income Financial Trust [INC.UN] | $13.6
+Change: $-0.61 (-4.29%)
+Dividend: $0.162
+Dividend Payout: Monthly
+Yield: 14.294% ($1.944)
+-----------------------------------------------------
+Inovalis Real Estate Investment Trust [INO.UN] | $9.9
+Change: $-0.01 (-0.1%)
+Dividend: $0.069
+Dividend Payout: Monthly
+Yield: 8.364% ($0.828)
+-----------------------------------------------------
+Voya Floating Rate Senior Loan Fund Class U Units [ISL.U] | $7.95
+Change: $0.0 (0.0%)
+Dividend: $0.042
+Dividend Payout: Monthly
+Yield: 6.34% ($0.504)
+-----------------------------------------------------
+Just Energy Group Inc. [JE] | $5.47
+Change: $-0.01 (-0.18%)
+Dividend: $0.125
+Dividend Payout: Quarterly
+Yield: 9.141% ($0.50)
+-----------------------------------------------------
+Just Energy Group Inc. 8.50% Series A Preferred  Shares [JE.PR.U] | $24.5
+Change: $0.0 (0.0%)
+Dividend: $0.531
+Dividend Payout: Quarterly
+Yield: 8.669% ($2.124)
+-----------------------------------------------------
+Crius Energy Trust [KWH.UN] | $8.655
+Change: $-0.055 (0.0%)
+Dividend: $0.068
+Dividend Payout: Monthly
+Yield: 9.428% ($0.816)
+-----------------------------------------------------
+Brompton Lifeco Split Corp. Class A Shares [LCS] | $7.33
+Change: $0.0 (0.0%)
+Dividend: $0.075
+Dividend Payout: Monthly
+Yield: 12.278% ($0.90)
+-----------------------------------------------------
+Canadian Life Companies Split Corp. Class A Shares [LFE] | $6.35
+Change: $0.01 (0.16%)
+Dividend: $0.10
+Dividend Payout: Monthly
+Yield: 18.898% ($1.20)
+-----------------------------------------------------
+Marquest Canadian Equity Income Fund [MIF.UN] | $5.3
+Change: $0.0 (0.0%)
+Dividend: $0.058
+Dividend Payout: Monthly
+Yield: 13.132% ($0.696)
+-----------------------------------------------------
+MCAN Mortgage Corporation [MKP] | $17.83
+Change: $0.16 (0.91%)
+Dividend: $0.37
+Dividend Payout: Quarterly
+Yield: 8.301% ($1.48)
+-----------------------------------------------------
+Mackenzie Master Limited Partnership [MKZ.UN] | $1.05
+Change: $-0.04 (-3.67%)
+Dividend: $0.15
+Dividend Payout: None
+Yield: 14.286% ($0.00)
+-----------------------------------------------------
+Precious Metals and Mining Trust [MMP.UN] | $1.77
+Change: $0.01 (0.57%)
+Dividend: $0.02
+Dividend Payout: Monthly
+Yield: 13.559% ($0.24)
+-----------------------------------------------------
+Melcor Real Estate Investment Trust [MR.UN] | $8.51
+Change: $0.02 (0.24%)
+Dividend: $0.056
+Dividend Payout: Monthly
+Yield: 7.897% ($0.672)
+-----------------------------------------------------
+First Asset North American Convertibles Fund [NCD.UN] | $7.1
+Change: $0.0 (0.0%)
+Dividend: $0.125
+Dividend Payout: Quarterly
+Yield: 7.042% ($0.50)
+-----------------------------------------------------
+NorthWest Healthcare Properties Real Estate Investment Trust [NWH.UN] | $11.31
+Change: $0.02 (0.18%)
+Dividend: $0.067
+Dividend Payout: Monthly
+Yield: 7.109% ($0.804)
+-----------------------------------------------------
+First Asset Energy Giants Covered Call ETF [NXF] | $7.8
+Change: $0.04 (0.52%)
+Dividend: $0.13
+Dividend Payout: Quarterly
+Yield: 6.667% ($0.52)
+-----------------------------------------------------
+First Asset Energy Giants Covered Call ETF [NXF.B] | $8.26
+Change: $0.0 (0.0%)
+Dividend: $0.13
+Dividend Payout: Quarterly
+Yield: 6.295% ($0.52)
+-----------------------------------------------------
+OCP Credit Strategy Fund [OCS.UN] | $7.0
+Change: $-0.03 (-0.43%)
+Dividend: $0.175
+Dividend Payout: Quarterly
+Yield: 10.00% ($0.70)
+-----------------------------------------------------
+Brompton Oil Split Corp. Class A Shares [OSP] | $6.26
+Change: $-0.02 (-0.32%)
+Dividend: $0.10
+Dividend Payout: Monthly
+Yield: 19.169% ($1.20)
+-----------------------------------------------------
+First Asset Can-Energy Covered Call ETF Common [OXF] | $8.71
+Change: $0.0 (0.0%)
+Dividend: $0.165
+Dividend Payout: Quarterly
+Yield: 7.577% ($0.66)
+-----------------------------------------------------
+Partners Real Estate Investment Trust [PAR.UN] | $2.97
+Change: $-0.02 (-0.67%)
+Dividend: $0.021
+Dividend Payout: Monthly
+Yield: 8.485% ($0.252)
+-----------------------------------------------------
+Energy Credit Opportunities Income Fund Class U Units [PCF.U] | $7.24
+Change: $0.0 (0.0%)
+Dividend: $0.05
+Dividend Payout: Monthly
+Yield: 8.287% ($0.60)
+-----------------------------------------------------
+Energy Credit Opportunities Income Fund [PCF.UN] | $7.15
+Change: $0.03 (0.42%)
+Dividend: $0.05
+Dividend Payout: Monthly
+Yield: 8.392% ($0.60)
+-----------------------------------------------------
+Prime Dividend Corp. Class A Shares [PDV] | $8.05
+Change: $0.0 (0.0%)
+Dividend: $0.066
+Dividend Payout: Monthly
+Yield: 9.839% ($0.792)
+-----------------------------------------------------
+Pattern Energy Group Inc. [PEGI] | $27.84
+Change: $0.28 (1.02%)
+Dividend: $0.422
+Dividend Payout: Quarterly
+Yield: 6.063% ($1.688)
+-----------------------------------------------------
+Peyto Exploration & Development Corp. [PEY] | $14.3
+Change: $0.24 (1.71%)
+Dividend: $0.11
+Dividend Payout: Monthly
+Yield: 9.231% ($1.32)
+-----------------------------------------------------
+Premium Income Corporation Class A Shares [PIC.A] | $7.97
+Change: $-0.05 (-0.62%)
+Dividend: $0.203
+Dividend Payout: Quarterly
+Yield: 10.188% ($0.812)
+-----------------------------------------------------
+Sentry Select Primary Metals Corp. Class A Shares [PME] | $2.34
+Change: $0.0 (0.0%)
+Dividend: $0.025
+Dividend Payout: Monthly
+Yield: 12.821% ($0.30)
+-----------------------------------------------------
+Canadian Resources Income Trust [RTU.UN] | $9.0
+Change: $0.0 (0.0%)
+Dividend: $0.059
+Dividend Payout: Monthly
+Yield: 7.867% ($0.708)
+-----------------------------------------------------
+Brompton Split Banc Corp. Class A Shares [SBC] | $14.49
+Change: $0.07 (0.49%)
+Dividend: $0.10
+Dividend Payout: Monthly
+Yield: 8.282% ($1.20)
+-----------------------------------------------------
+SCITI Trust [SIN.UN] | $8.11
+Change: $-0.02 (-0.25%)
+Dividend: $0.062
+Dividend Payout: Monthly
+Yield: 9.174% ($0.744)
+-----------------------------------------------------
+Skylon Growth & Income Trust [SKG.UN] | $8.1
+Change: $0.0 (0.0%)
+Dividend: $0.058
+Dividend Payout: Monthly
+Yield: 8.593% ($0.696)
+-----------------------------------------------------
+Summit Industrial Income REIT [SMU.UN] | $7.21
+Change: $-0.01 (-0.14%)
+Dividend: $0.043
+Dividend Payout: Monthly
+Yield: 7.157% ($0.516)
+-----------------------------------------------------
+Slate Office REIT [SOT.UN] | $8.07
+Change: $-0.01 (-0.12%)
+Dividend: $0.063
+Dividend Payout: Monthly
+Yield: 9.368% ($0.756)
+-----------------------------------------------------
+Slate Retail REIT Class U Units [SRT.U] | $10.15
+Change: $0.0 (0.0%)
+Dividend: $0.07
+Dividend Payout: Monthly
+Yield: 8.276% ($0.84)
+-----------------------------------------------------
+Slate Retail REIT [SRT.UN] | $13.1
+Change: $0.04 (0.31%)
+Dividend: $0.07
+Dividend Payout: Monthly
+Yield: 6.412% ($0.84)
+-----------------------------------------------------
+SIR Royalty Income Fund [SRV.UN] | $14.5
+Change: $0.07 (0.49%)
+Dividend: $0.095
+Dividend Payout: Monthly
+Yield: 7.862% ($1.14)
+-----------------------------------------------------
+Student Transportation Inc. [STB] | $7.61
+Change: $-0.04 (-0.52%)
+Dividend: $0.037
+Dividend Payout: Monthly
+Yield: 5.834% ($0.444)
+-----------------------------------------------------
+Taiga Building Products Ltd. 14% subordinated notes due 2020 [TBL.NT] | $100.25
+Change: $0.0 (0.0%)
+Dividend: $1.167
+Dividend Payout: Monthly
+Yield: 13.969% ($14.004)
+-----------------------------------------------------
+Top 10 Canadian Financial Trust [TCT.UN] | $10.52
+Change: $0.01 (0.1%)
+Dividend: $0.196
+Dividend Payout: Quarterly
+Yield: 7.452% ($0.784)
+-----------------------------------------------------
+Timbercreek Financial Corp. [TF] | $9.53
+Change: $-0.01 (-0.1%)
+Dividend: $0.058
+Dividend Payout: Monthly
+Yield: 7.303% ($0.696)
+-----------------------------------------------------
+True North Commercial Real Estate Investment Trust [TNT.UN] | $6.62
+Change: $-0.02 (-0.3%)
+Dividend: $0.05
+Dividend Payout: Monthly
+Yield: 9.063% ($0.60)
+-----------------------------------------------------
+Top 10 Split Trust [TXT.UN] | $4.72
+Change: $0.33 (7.52%)
+Dividend: $0.098
+Dividend Payout: Quarterly
+Yield: 8.305% ($0.392)
+-----------------------------------------------------
+Trez Capital Senior Mortgage Investment Corporation Class A Shares [TZS] | $2.77
+Change: $0.01 (0.36%)
+Dividend: $0.049
+Dividend Payout: None
+Yield: 1.769% ($0.00)
+-----------------------------------------------------
+Trez Capital Mortgage Investment Corporation Class A Shares [TZZ] | $3.99
+Change: $0.0 (0.0%)
+Dividend: $0.058
+Dividend Payout: None
+Yield: 1.454% ($0.00)
+-----------------------------------------------------
+First Asset Morningstar U.S. Consumer Defensive Index Fund [UCD.UN] | $9.25
+Change: $0.0 (0.0%)
+Dividend: $0.056
+Dividend Payout: Monthly
+Yield: 7.265% ($0.672)
+-----------------------------------------------------
+M Split Corp. $5.00 Class I Preferred Shares [XMF.PR.B] | $5.21
+Change: $-0.05 (-0.95%)
+Dividend: $0.031
+Dividend Payout: Monthly
+Yield: 7.14% ($0.372)
+-----------------------------------------------------
+TDb Split Corp. Class A Shares [XTD] | $6.45
+Change: $-0.04 (-0.62%)
+Dividend: $0.05
+Dividend Payout: Monthly
+Yield: 9.302% ($0.60)
+-----------------------------------------------------
+Commerce Split Corp. $5.00 Class II Preferred Shares [YCM.PR.B] | $5.07
+Change: $-0.01 (-0.2%)
+Dividend: $0.031
+Dividend Payout: Monthly
+Yield: 7.337% ($0.372)
+-----------------------------------------------------
+Alaris Royalty Corp. [AD] | $19.08
+Change: $0.09 (0.47%)
+Dividend: $0.135
+Dividend Payout: Monthly
+Yield: 8.491% ($1.62)
+-----------------------------------------------------
