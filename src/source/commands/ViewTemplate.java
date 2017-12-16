@@ -23,5 +23,10 @@ public class ViewTemplate extends Command{
 
     @Override
     public String getIdentifier() { return "seetp"; }
+
+    @Override
+    public void parse(String[] args) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }

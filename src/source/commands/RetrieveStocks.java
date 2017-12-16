@@ -23,5 +23,10 @@ public class RetrieveStocks extends Command {
 
     @Override
     public String getIdentifier() { return "resk"; }
+
+    @Override
+    public void parse(String[] args) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }

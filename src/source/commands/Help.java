@@ -23,5 +23,10 @@ public class Help extends Command {
 
     @Override
     public String getIdentifier() { return "help"; }
+
+    @Override
+    public void parse(String[] args) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }

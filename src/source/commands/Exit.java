@@ -20,10 +20,15 @@ public class Exit extends Command {
 
     @Override
     public void help() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        
     }
     
     @Override
     public String getIdentifier() { return "exit"; }
+
+    @Override
+    public void parse(String[] args) {
+        execute();
+    }
     
 }
