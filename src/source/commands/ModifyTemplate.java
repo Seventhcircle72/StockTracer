@@ -25,5 +25,14 @@ public class ModifyTemplate extends Command {
     
     @Override
     public String getIdentifier() { return "modtp"; }
+
+    @Override
+<<<<<<< HEAD
+    public void parse(String args) {
+=======
+    public void parse(String[] args) {
+>>>>>>> a4314ba024b38feb74000628753f3cc79647ecdd
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }

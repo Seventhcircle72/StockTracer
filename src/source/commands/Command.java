@@ -11,10 +11,13 @@ package source.commands;
  */
 public abstract class Command {
     
-    public static void parse(String[] args) {
-        
-    }
+<<<<<<< HEAD
+    public abstract void parse(String args);
     
+=======
+    public abstract void parse(String[] args); 
+            
+>>>>>>> a4314ba024b38feb74000628753f3cc79647ecdd
     public abstract void execute();
     
     public abstract void help();
