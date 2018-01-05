@@ -32,7 +32,6 @@ public class Echo extends Command {
     public String getIdentifier() { return "echo"; }
 
     @Override
-<<<<<<< HEAD
     public void parse(String args) {
         // Take arguments and find String message
         if (hasMessage(args)) {
@@ -63,10 +62,11 @@ public class Echo extends Command {
             result = true;
         }
         return result;
-=======
+    }
+
+    @Override
     public void parse(String[] args) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
->>>>>>> a4314ba024b38feb74000628753f3cc79647ecdd
     }
     
 }

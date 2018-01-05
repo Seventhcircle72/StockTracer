@@ -45,15 +45,12 @@ public class StockParser {
             tokens = arguments.split("\\s");
             command = tokens[0];
             Command c = commands.get(command);
-<<<<<<< HEAD
             c.parse(arguments);
-=======
             if (c == null) {
                 System.out.println("Invalid Command. Please try again...");
             } else {
                 c.parse(tokens);
             }
->>>>>>> a4314ba024b38feb74000628753f3cc79647ecdd
         }
     }
     

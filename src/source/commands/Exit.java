@@ -27,11 +27,11 @@ public class Exit extends Command {
     public String getIdentifier() { return "exit"; }
 
     @Override
-<<<<<<< HEAD
     public void parse(String args) {
-=======
+
+    }
+
     public void parse(String[] args) {
->>>>>>> a4314ba024b38feb74000628753f3cc79647ecdd
         execute();
     }
     
